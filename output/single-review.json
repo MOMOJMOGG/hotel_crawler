@@ -1,0 +1,37 @@
+[
+    {
+        "id": "chatcmpl-AMyhxzfTwcduDE0h8yX17904hkxqB",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"地點坐落雖較徧闢，卻有遠離塵囂之感。雖沒有夜市可逛，但飯店還是準備了夜宵給大家，讓大家可以走出房間，旅客們也會在飯店的公共空間和朋友、家人聊聊天交流情感，是其他飯店較少看見的情景。飯店同仁溫暖的微笑、旅客之間溫暖的互動，真的很喜歡。對了千萬不要漏了早餐…應該是早午餐吧！今天只能起動放任日了，每一道菜都如此精心製作，如此好吃而不想錯過，今天大概吃了4天份的早餐了吧，cp值真的很高啊！至於吃了什麼，飯店官網有介紹喔！\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"服務\",\"評價說明\":\"飯店同仁溫暖的微笑，旅客之間的暖心互動\"},{\"關鍵字\":\"早餐\",\"評價說明\":\"早餐精心製作，美味可口，cp值高\"}],\"負向評論\":[{\"關鍵字\":\"位置\",\"評價說明\":\"地點較偏僻，但提供了遠離塵囂的舒適感\"}]},\"評論總結\":{\"評價\":\"推薦\",\"推薦結論\":\"飯店服務與早餐表現優異，即便地點偏僻也不影響整體住宿體驗，強烈推薦。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730039941,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 352,
+            "prompt_tokens": 637,
+            "total_tokens": 989,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    }
+]
