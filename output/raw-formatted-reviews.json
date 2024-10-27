@@ -1,0 +1,2697 @@
+[
+    {
+        "id": "chatcmpl-AMz7GszxpLy7QMrrdthDSnTscSplY",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"地點坐落雖較徧闢，卻有遠離塵囂之感。雖沒有夜市可逛，但飯店還是準備了夜宵給大家，讓大家可以走出房間，旅客們也會在飯店的公共空間和朋友、家人聊聊天交流情感，是其他飯店較少看見的情景。飯店同仁溫暖的微笑、旅客之間溫暖的互動，真的很喜歡。對了千萬不要漏了早餐…應該是早午餐吧！今天只能起動放任日了，每一道菜都如此精心製作，如此好吃而不想錯過，今天大概吃了4天份的早餐了吧，cp值真的很高啊！至於吃了什麼，飯店官網有介紹喔！\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"服務\",\"評價說明\":\"飯店同仁溫暖的微笑和旅客之間的互動令人感到愉快。\"},{\"關鍵字\":\"衛生\",\"評價說明\":\"早餐的每一道菜都精心製作，讓旅客感受到乾淨和新鮮。\"},{\"關鍵字\":\"早餐\",\"評價說明\":\"早餐（早午餐）選擇多，味道好，CP值高。\"}],\"負向評論\":[]},\"評論總結\":{\"評價\":\"推薦\",\"推薦結論\":\"這條評論對飯店的服務、早餐和整體氛圍均給予很高的評價，顯示出顧客的滿意度，因此值得推薦。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041510,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 378,
+            "prompt_tokens": 637,
+            "total_tokens": 1015,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz7JPo2q7GnhhhnP96PR03WncyZ7",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"先說不推 優點是服務好 早餐不錯 但缺點不少 第一是暗黑派派 搞得夜店風但事實上台式點心蠻普通的 有些甚至不太好吃 第二是頂樓的拍照空間 也蠻令人失望的 其實這麼好的空間好好利用 弄個健身房也好 要拿拍照打卡當特點只會讓人失望 總體而言對宜蘭館蠻失望的 住宿價格不算便宜 不是很滿意 建議還是去礁溪泡溫泉比較爽 不然乾脆出國好了\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"服務\",\"評價說明\":\"服務好\"},{\"關鍵字\":\"早餐\",\"評價說明\":\"早餐不錯\"}],\"負向評論\":[{\"關鍵字\":\"設施\",\"評價說明\":\"頂樓的拍照空間令人失望，建議利用該空間做其他用途，如健身房。\"},{\"關鍵字\":\"衛生\",\"評價說明\":\"台式點心普通，有些甚至不太好吃。\"},{\"關鍵字\":\"價格\",\"評價說明\":\"住宿價格不算便宜，總體不滿意。\"}]},\"評論總結\":{\"評價\":\"不推薦\",\"推薦結論\":\"整體對這家飯店感到失望，雖然服務和早餐有其優點，但設施和整體品質上面都無法滿足期望，不值得推薦。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041513,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 352,
+            "prompt_tokens": 592,
+            "total_tokens": 944,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz7NxzIzdZ9MpSvwP8eunFN8iHl4",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"在官網上找到優惠方案，豪華家庭房含早餐，晚上還有宵夜趴可以吃吃小點，頂樓有些可愛的小設施可以玩、拍照；最棒的是早午餐可以吃到下午一點半，如果前一晚check in時間太晚，隔天還可以兩點再check out 😃真的很佛心！住宿體驗很舒服！有機會還會想再來👍\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"早餐\",\"評價說明\":\"早午餐可以吃到下午一點半，且含早餐，顯示飯店對客人的體貼安排。\"},{\"關鍵字\":\"舒適度\",\"評價說明\":\"住宿體驗很舒服，顯示出客人的滿意度。\"},{\"關鍵字\":\"設施\",\"評價說明\":\"頂樓有可愛的小設施可以玩、拍照，增加了住宿的樂趣。\"},{\"關鍵字\":\"服務\",\"評價說明\":\"有宵夜趴提供小點心，顯示出服務的周到。\"}],\"負向評論\":[]},\"評論總結\":{\"評價\":\"推薦\",\"推薦結論\":\"評論顯示客人對酒店的早餐、舒適度及設施非常滿意，並且提到服務周到，因此值得推薦。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041517,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 301,
+            "prompt_tokens": 538,
+            "total_tokens": 839,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz7QcprT6U8KLv4O7ASIqSqqBkNs",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"於9/15-9/16入住，一開始在官網上面訂房就有註記小孩年紀及要求要嬰兒床及嬰兒澡盆，當天入住的時候櫃檯表示今天人手不夠，嬰兒沐浴乳等備品會晚一點送進房間，我們也表示沒關係目前還不會用到，結果到了房間發現嬰兒床也還沒送來，致電櫃檯表示稍等會協助送進房間，也有取得我們的同意如果外出不在可以直接送進房間（當時入住時間約15:00初頭）。 中途我們出去雨山咖啡買了咖啡，回來還是沒有送來，小孩（9個月）在床上亂爬還不小心摔下床（還好沒有造成很嚴重的受傷），因為無法一直待在推車上只好一直抱著，根本無法好好休息……..不是應該check in的時候物品就要都準備好嗎～～～😩 後來到我們17:30出門之前嬰兒床都還沒送來，後來19:00回到飯店，發現嬰兒床跟嬰兒澡盆都堆在門口，其他間也有消毒鍋跟圍欄也都堆在門口，說好的送進房間呢？怎麼到最後還要我們自己搬了…… 餐點環境都中規中矩，但因為這段小插曲，覺得居住體驗有點打折，希望可以改善。\",\"評論分析\":{\"正向評論\":[],\"負向評論\":[{\"關鍵字\":\"服務\",\"評價說明\":\"入住時嬰兒床和沐浴用品未準備好，導致入住體驗不佳。\"},{\"關鍵字\":\"衛生\",\"評價說明\":\"嬰兒床和用品放在門口而非送進房間，未達到衛生標準。\"},{\"關鍵字\":\"設施\",\"評價說明\":\"嬰兒床送遲且無法正常使用，影響了小孩的安全。\"}]},\"評論總結\":{\"評價\":\"不推薦\",\"推薦結論\":\"雖然餐點環境中規中矩，但因為服務質量和設施未完善，入住的整體體驗不佳，建議改善此問題。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041520,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 568,
+            "prompt_tokens": 824,
+            "total_tokens": 1392,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz7VWH5yPnxAVOULUzOSdbeGzTKS",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"房間的分機壞掉了，隔音也不是很好，樓下的遊覽車聲音很吵，找不到竹炭水，只有一般的飲水機，也沒有提供熱開水！ 住客很多，吃早餐最好晚一點去吃，以免沒有座位！ 其他的就還好，外觀也還不錯，附近也可以騎騎腳踏車或走走！\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"外觀\",\"評價說明\":\"外觀也還不錯\"},{\"關鍵字\":\"附近設施\",\"評價說明\":\"附近也可以騎騎腳踏車或走走\"}],\"負向評論\":[{\"關鍵字\":\"隔音\",\"評價說明\":\"隔音也不是很好，樓下的遊覽車聲音很吵\"},{\"關鍵字\":\"服務\",\"評價說明\":\"房間的分機壞掉了，找不到竹炭水，只有一般的飲水機，也沒有提供熱開水\"},{\"關鍵字\":\"衛生\",\"評價說明\":\"住客很多，吃早餐最好晚一點去吃，以免沒有座位！\"}]},\"評論總結\":{\"評價\":\"不推薦\",\"推薦結論\":\"房間的設施及隔音問題影響住宿體驗，需改善服務與衛生狀況。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041525,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 307,
+            "prompt_tokens": 535,
+            "total_tokens": 842,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz7YvIw3Z1GXNVW66GUcCwNhIsJK",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"位置距離宜蘭火車站車程約8-10分鐘，算是方便。來這邊住要抱持會變胖的心理準備😂 早餐超級豐盛，四星級但是我覺得不輸其他五星級，中西餐都有、也有一些道地的台灣美食和甜點，會入住這邊很大原因是早餐到下午一點被欸‼️ 一開始因為自己看錯，但後來確認真的是這樣🤣 20:30-22:30還會有免費零食跟宵夜😱 叫餐ubereats 也很方便。 🛏️ 房間設施：入住家庭房四人房 ⚠️覺得比較不方便的是房間沒有衣櫃😵‍💫 雖然不知道每間飯店是不是必備，但沒有體重機，一開始覺得不方便，不過似乎能暫時逃避現實🤣 but，棉被非常柔軟蓬鬆又舒服❤️（有發現裡面是羽毛），缺點❗️枕頭😵‍💫 只有一顆而且偏硬又不蓬鬆，大概個人習慣吧，我自己是睡得不太舒服。 Checkout 方便，不用再櫃檯辦理，若沒叫其他東西，可以直接房卡丟箱子離開。客房服務24小時都很有效率，飯店人員服務親切友善，還是會再來玩👍🏻\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"早餐\",\"評價說明\":\"早餐超級豐盛，四星級但不輸其他五星級，有中西餐和道地台灣美食，早餐到下午一點。\"},{\"關鍵字\":\"服務\",\"評價說明\":\"飯店人員服務親切友善，客房服務24小時有效率，Checkout方便無需櫃檯辦理.\"},{\"關鍵字\":\"設施\",\"評價說明\":\"房間設施整體良好，棉被柔軟蓬鬆令人舒適。\"}],\"負向評論\":[{\"關鍵字\":\"設施\",\"評價說明\":\"房間沒有衣櫃和體重機，不方便，枕頭硬且只有一顆。\"}]},\"評論總結\":{\"評價\":\"推薦\",\"推薦結論\":\"整體來說，飯店提供的早餐和服務非常出色，設施也多數令住客滿意，但部份設施上的不足可改善。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041528,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 582,
+            "prompt_tokens": 786,
+            "total_tokens": 1368,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz7dMglDy2yMWrladcexFmPzBYr4",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"房間大有陽台 有沙發跟靠窗小桌 待起來很舒適 適合開車兜風渡假的行程 地下室停車場寬敞好停 離市區有點遠 周遭走路範圍內幾乎沒有什麼店家 不過會來住這裡的應該本來就是渡假村概念 早餐可以吃到下午一點半 東西沒有蘇澳館豐盛不過還是不錯 很不錯的渡假飯店\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"房間\",\"評價說明\":\"房間大，有陽台，待起來很舒適。\"},{\"關鍵字\":\"服務\",\"評價說明\":\"地下室停車場寬敞好停，適合開車兜風的渡假行程。\"},{\"關鍵字\":\"早餐\",\"評價說明\":\"可以吃到下午一點半，雖然不如蘇澳館豐盛，但還是不錯。\"}],\"負向評論\":[{\"關鍵字\":\"位置\",\"評價說明\":\"離市區有點遠，周遭走路範圍幾乎沒有店家。\"}]},\"評論總結\":{\"評價\":\"推薦\",\"推薦結論\":\"飯店提供舒適的住宿環境和便利的設施，雖然位置較遠，但整體適合度假住宿，值的推薦。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041533,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 327,
+            "prompt_tokens": 560,
+            "total_tokens": 887,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz7g2uKw13XzeCTGZUckEssQSJAT",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"居住：房間空間不小，廁所跟浴室不是一般乾濕分離，而是廁所、浴室各一間。 感覺枕頭好像有點高？（還是我脖子太短？） 棉被舒服，但有點厚，怕熱的我有時會熱醒🫠 現在政府政策無法提供一次性用品，有缺日常用品時建議到櫃檯求援，相信你會得到滿意的幫助。 吸煙區：全館內部禁菸，但有設一個吸煙區！ 簡單說在車道出入口附近有個管狀煙灰缸，別懷疑，就是哪裡🤗 服務：櫃檯、早午餐等服務人員都十分積極、熱情，服務給滿分。 餐點：個人覺得較偏甜，比較不適合我，但口味這東西見人見智，不予評論。 地點：個人覺得這是偏渡假飯店，提供早午餐、下午茶、甚至晚間的簡單點心，就想讓客人除了跑景點外可以整天膩在旅館耍廢，所以地點雖不算太偏遠，但離宜蘭、羅東的鬧區還是有點小距離，喜歡熱鬧還是清幽也得由各位看官自行決定囉！ 不過飯店周遭有的路比較窄，建議開車要多留心注意來車哦！\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"服務\",\"評價說明\":\"櫃檯、早午餐等服務人員都十分積極、熱情，服務給滿分。\"},{\"關鍵字\":\"衛生\",\"評價說明\":\"房間空間不小，廁所與浴室的配置使得衛生情況良好。\"},{\"關鍵字\":\"舒適度\",\"評價說明\":\"棉被舒服，但稍厚，可能會影響某些客人的睡眠。\"},{\"關鍵字\":\"設施\",\"評價說明\":\"設有吸煙區，雖然全館禁菸，但仍提供其便利。\"}],\"負向評論\":[{\"關鍵字\":\"枕頭\",\"評價說明\":\"枕頭高度可能不適合所有客人，可能影響舒適感。\"},{\"關鍵字\":\"地點\",\"評價說明\":\"飯店距離鬧區稍有距離，對於想要熱鬧的人來說是缺點。\"}]},\"評論總結\":{\"評價\":\"推薦\",\"推薦結論\":\"飯店服務優良，有良好的衛生條件，雖然地點稍偏遠及枕頭高度問題，總體而言是值得推薦的住宿選擇。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041536,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 656,
+            "prompt_tokens": 805,
+            "total_tokens": 1461,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz7lnQrUUlbL7yL9SyvkqrR0W6Bf",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"因為怕颱風家中停電而入住，首先是停車場非常寬敞明亮，平日的住宿價格合理，可以選擇入住和退房時間非常有彈性，早午餐可以吃到1:30很貼心！下次還會再入住。\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"停車場\",\"評價說明\":\"停車場非常寬敞明亮\"},{\"關鍵字\":\"價格\",\"評價說明\":\"平日的住宿價格合理\"},{\"關鍵字\":\"彈性\",\"評價說明\":\"可以選擇入住和退房時間非常有彈性\"},{\"關鍵字\":\"早餐\",\"評價說明\":\"早午餐可以吃到1:30很貼心\"}],\"負向評論\":[]},\"評論總結\":{\"評價\":\"推薦\",\"推薦結論\":\"這條評論展現了飯店在停車場空間、價格彈性及早餐時段等方面的優勢，顯示出正面的入住體驗，建議再次入住。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041541,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 241,
+            "prompt_tokens": 507,
+            "total_tokens": 748,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz7n8EpfmKmihQFDNA82iB8YgeGZ",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"家庭2大+1小未滿五歲，家庭雙床含早餐 使用去年購買線上旅展住宿券2張再加價訂房，因為已無宿券可訂購房型，週六住宿貴一點可理解。 入住6樓-房間清潔ok，淋浴間、嬰兒澡盆清潔度可再加強，地板覺得滑滑、排水緩慢（洗臉台也是）、蓮蓬頭出水量小且熱度不夠，澡盆排水孔積垢未清…以高價位房價來說，很掉漆。唯一安慰是早餐菜色豐富，室內停車位方便好停！\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"早餐\",\"評價說明\":\"早餐菜色豐富\"},{\"關鍵字\":\"停車\",\"評價說明\":\"室內停車位方便好停\"}],\"負向評論\":[{\"關鍵字\":\"清潔度\",\"評價說明\":\"淋浴間、嬰兒澡盆清潔度可再加強\"},{\"關鍵字\":\"設施\",\"評價說明\":\"地板覺得滑滑、排水緩慢，蓮蓬頭出水量小且熱度不夠\"},{\"關鍵字\":\"清潔度\",\"評價說明\":\"澡盆排水孔積垢未清\"}]},\"評論總結\":{\"評價\":\"普通\",\"推薦結論\":\"整體清潔和設施方面存在問題，雖然早餐和停車方面表現良好，但以高價位來說，仍有改進空間。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041543,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 377,
+            "prompt_tokens": 605,
+            "total_tokens": 982,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz7rafe0SrKt7zE9HlYQ7sTxy5jo",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"一家三口入住兩次還是覺得很喜歡，最愛是早餐的松露奶油搭配法棍 ❤️ （飽） 缺點就是稍微偏僻、吹風機風量超級小 不過訂到優惠方案時還是很值得 下次見\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"早餐\",\"評價說明\":\"早餐的松露奶油搭配法棍受到很高的評價，顯示食物品質優良。\"}],\"負向評論\":[{\"關鍵字\":\"位置\",\"評價說明\":\"飯店稍微偏僻，可能對某些客人來說不方便。\"},{\"關鍵字\":\"設施\",\"評價說明\":\"吹風機風量超級小，影響了使用體驗。\"}]},\"評論總結\":{\"評價\":\"推薦\",\"推薦結論\":\"整體來說，儘管有些負面因素，如位置偏僻和設施不夠完善，評論者依然對飯店的早餐和價位表示滿意，因此給予推薦。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041547,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 247,
+            "prompt_tokens": 506,
+            "total_tokens": 753,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz7to9tdhnZRxS6M5htjCo58wmhw",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"飯店位子偏僻，地下停車場的車位也很少，晚點回來要停在附近的宮廟廣場 早餐遠遠不及台南煙波，餐廳也很小，用餐尖峰需要排隊 房間很陽春，USB孔無法充電，排水很慢 如果不是對煙波有特別偏愛，絕對有更好的選擇\",\"評論分析\":{\"正向評論\":[],\"負向評論\":[{\"關鍵字\":\"位置\",\"評價說明\":\"飯店位子偏僻，返回時需要到附近停車，造成不便\"},{\"關鍵字\":\"設施\",\"評價說明\":\"地下停車場的車位很少，晚回來需要停在其他地方；房間設施陽春，USB孔無法充電，排水很慢\"},{\"關鍵字\":\"早餐\",\"評價說明\":\"早餐品質遠不及其他飯店，餐廳面積小且用餐高峰期需要排隊\"}]},\"評論總結\":{\"評價\":\"不推薦\",\"推薦結論\":\"整體來看，飯店在位置、設施和早餐方面都有明顯不足，若非對某些特定品牌有偏好，建議選擇其他更符合需求的選擇。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041549,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 295,
+            "prompt_tokens": 533,
+            "total_tokens": 828,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz7w6MTp4Mt43M0Ib2BN7z6hacsP",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"負評： 1. 入房就發現洗手台上的飲料空罐，不理解這麼大一個瓶子如何在房務收拾時能遺漏。 2. 晚上在1樓餐廳有活動，供應小食、甜點，建議不用有太多期待，相比一些商務飯店的水準更差。 房內空間夠，兩張小沙發椅、一張小桌子方便外帶食物回房間食用，硬體設備一般、電視畫質普通MOD頻道不多，可使用WiFi 電視投影。 地點較偏僻，附近沒有什麼店家。 早餐餐廳空間小、種類少、口味差、補餐速度非常慢，不符合煙波一慣讓人稱讚的早餐水準，跟6月住花蓮煙波相比差距很大。\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"空間\",\"評價說明\":\"房內空間夠，兩張小沙發椅、一張小桌子方便外帶食物回房間食用。\"}],\"負向評論\":[{\"關鍵字\":\"衛生\",\"評價說明\":\"入房發現洗手台上的飲料空罐，房務顯然沒有仔細清理。\"},{\"關鍵字\":\"設施\",\"評價說明\":\"硬體設備一般，電視畫質普通，MOD頻道不多。\"},{\"關鍵字\":\"位置\",\"評價說明\":\"地點較偏僻，附近沒有什麼店家。\"},{\"關鍵字\":\"早餐\",\"評價說明\":\"早餐空間小，種類少，口味差，補餐速度非常慢，不符合一貫水準。\"}]},\"評論總結\":{\"評價\":\"不推薦\",\"推薦結論\":\"整體評價不佳，尤其在衛生、設施和早餐品質上，有許多明顯的不足之處，加上地點偏僻，建議不推薦此飯店。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041552,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 461,
+            "prompt_tokens": 644,
+            "total_tokens": 1105,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz81U9OTZRw2TNYmiiMRzSmSCo83",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"此次住宿住了兩天802房，入住很快速，但電梯等很久，馬桶水壓偏小要多沖幾次，發現飯店插座孔有點大跟自己的座充無法吻合，5歲身高112公分小朋友的早餐食量比較小，竟然收了330的費用，有點不太近乎人情，畢竟小朋友的食量真的吃不多，希望可以只收清潔費，早餐很豐盛，但晚餐沒有CP值，價格偏貴，飲料選擇太少了，飯店服務人員都很親切也很友善，停車空間也很夠。\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"服務\",\"評價說明\":\"飯店服務人員都很親切也很友善\"},{\"關鍵字\":\"早餐\",\"評價說明\":\"早餐很豐盛\"},{\"關鍵字\":\"停車\",\"評價說明\":\"停車空間也很夠\"}],\"負向評論\":[{\"關鍵字\":\"電梯\",\"評價說明\":\"電梯等很久\"},{\"關鍵字\":\"水壓\",\"評價說明\":\"馬桶水壓偏小要多沖幾次\"},{\"關鍵字\":\"價錢\",\"評價說明\":\"小朋友的早餐收了330的費用，晚餐沒有CP值，價格偏貴，飲料選擇太少了\"},{\"關鍵字\":\"插座\",\"評價說明\":\"插座孔有點大跟自己的座充無法吻合\"}]},\"評論總結\":{\"評價\":\"普通\",\"推薦結論\":\"雖然有些負面因素影響整體體驗，但也有正面體驗，服務和早餐表現良好，建議改善一些設施及價格收費問題。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041557,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 413,
+            "prompt_tokens": 594,
+            "total_tokens": 1007,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz86KU0p1nKDeINCIUoBpO6ytALN",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"房間大好睡，隔音很好！宵夜螢光派對多品項很棒，早餐豐富多樣好吃，家庭旅行整體很開心，下次會再選擇入住\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"房間\",\"評價說明\":\"房間大好睡，舒適度高！\"},{\"關鍵字\":\"隔音\",\"評價說明\":\"隔音很好，提供了良好的休息環境。\"},{\"關鍵字\":\"宵夜\",\"評價說明\":\"宵夜螢光派對多品項，非常棒的選擇。\"},{\"關鍵字\":\"早餐\",\"評價說明\":\"早餐豐富多樣，口味好吃，讓人滿意。\"}],\"負向評論\":[]},\"評論總結\":{\"評價\":\"推薦\",\"推薦結論\":\"整體住宿經驗非常滿意，適合家庭旅行，下次會再選擇入住。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041562,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 219,
+            "prompt_tokens": 489,
+            "total_tokens": 708,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz88IjljaEgCcBOtYhqJYydFZtFY",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"官網訂尊榮一大床結果結果開門是一個普通雙人床 2.假日一個晚上快六千塊的價格，品質卻令人堪憂 （1）壁紙不服貼 （2）到處發霉 （3）電線亂收 （4）到處都是灰塵 （5）抽屜不明原因都打不開 3.跟其他縣市的煙波差好幾個級別 4.這個品質跟青年旅館沒有差別 5.建議不要踩雷選擇其他更好的飯店 6.電視都什麼年代還沒有其他串流平台的選擇 7.完全沒有這個價格該有的平等對待\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"價格\",\"評價說明\":\"對於價格的質疑，認為並不合理，價格與品質不符.\"}],\"負向評論\":[{\"關鍵字\":\"服務\",\"評價說明\":\"飯店提供的服務品質低下，未能符合顧客期待.\"},{\"關鍵字\":\"衛生\",\"評價說明\":\"環境衛生差，存在發霉和塵埃的問題.\"},{\"關鍵字\":\"設施\",\"評價說明\":\"設施老舊，設備無法滿足現代需求.\"},{\"關鍵字\":\"舒適度\",\"評價說明\":\"未能提供合適的舒適度，影響住宿體驗.\"}]},\"評論總結\":{\"評價\":\"不推薦\",\"推薦結論\":\"此評論者對飯店的整體印象非常差，指出多個負面情況，並建議選擇其他飯店，綜合評價為不推薦。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041564,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 398,
+            "prompt_tokens": 612,
+            "total_tokens": 1010,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz8BViH03KA6K442ohdoB03tHXB6",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"第一次遇到飯店辦理入住有分訂房管道而有不同的待遇（也可能是我見識少） 一進到大廳服務員就詢問哪裡訂房的？由於是家人協助代訂的，所以一時回答不出來，告知訂房大名，結果服務員堅持需要知道哪裡訂房，所以馬上電話聯絡家人，知道是agoda後，服務員指引到一旁的機器請我們輸入資訊，同時問我們五位訂一間房嗎？我回答有訂三間，結果服務員又請我們折返至櫃檯辦理入住，說是因為有三間房所以需要人工查詢⋯讓這次一開始的checkin體驗就不太好了，不太懂當時大廳沒半組客人，然後櫃檯站著三位服務員卻無法提供非自助式較有人情味的辦理方式，不知道是不是貴公司打算之後都不雇用櫃檯接待員改成全自助機台辦理入住手續呢？\",\"評論分析\":{\"正向評論\":[],\"負向評論\":[{\"關鍵字\":\"服務\",\"評價說明\":\"飯店服務員詢問訂房管道且堅持要求提供，影響入住體驗\"},{\"關鍵字\":\"入住體驗\",\"評價說明\":\"初次入住時，因為多間房的關係需要經過繁瑣的checkin過程\"}]},\"評論總結\":{\"評價\":\"不推薦\",\"推薦結論\":\"入住的check-in過程不夠順暢且缺乏人情味，影響整體滿意度。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041567,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 399,
+            "prompt_tokens": 701,
+            "total_tokens": 1100,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz8FoJIGtbi2L0tSq1mJMvdou8lF",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"遊客太多，停車場不夠，還需要停到走路有點距離到地方，這點覺得不太好。早餐沒有分流，導致人多到擠在一起夾菜，整個餐廳擁擠。 床還行，訂一特大床，床卻是一般的尺寸，可能我會錯飯店官網照片及文字的意思了吧。 這次住的品質及感受沒有很好。但服務人員態度是很棒的。\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"服務\",\"評價說明\":\"服務人員態度是很棒的。\"}],\"負向評論\":[{\"關鍵字\":\"停車\",\"評價說明\":\"遊客太多，停車場不夠，還需要停到走路有點距離。\"},{\"關鍵字\":\"早餐\",\"評價說明\":\"早餐沒有分流，導致人多到擠在一起夾菜，餐廳擁擠。\"},{\"關鍵字\":\"床\",\"評價說明\":\"預定的特大床尺寸卻是一般的尺寸，感到失望。\"},{\"關鍵字\":\"品質\",\"評價說明\":\"這次住的品質及感受沒有很好。\"}]},\"評論總結\":{\"評價\":\"不推薦\",\"推薦結論\":\"雖然服務態度良好，但整體入住體驗受到停車困難、早餐擁擠及房間布置不滿意影響，因此不推薦。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041571,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 345,
+            "prompt_tokens": 559,
+            "total_tokens": 904,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz8HSBvwfWhzPL3cI7B9sXQbh81i",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"這次是透過朋友買票券使用住了2晚，第一晚應該是4人房，2張雙床房空間很大，不用搶一人一床但沒浴缸泡，因為第二晚滿房所以住加大雙人房，明顯空間變很小但有浴缸可以泡澡。早午餐其實非常豐富可以睡到10點多起床在吃非常喜歡這樣時間，晚上還有甜品可以吃，氛圍也是很不錯，但就是離市區有一段距離周遭很安靜，還特地去附近逛逛。都是別野房子欸🤭新成屋很多。不使用票券費用不便宜還好當初買了2張。\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"空間\",\"評價說明\":\"房間空間很大，讓人感到舒適\"},{\"關鍵字\":\"早餐\",\"評價說明\":\"早午餐非常豐富，且用餐時間靈活\"},{\"關鍵字\":\"氛圍\",\"評價說明\":\"氣氛不錯，讓人感到愉悅\"}],\"負向評論\":[{\"關鍵字\":\"位置\",\"評價說明\":\"離市區有一段距離，周遭環境安靜，對某些旅客可能不方便\"},{\"關鍵字\":\"費用\",\"評價說明\":\"若不使用票券，費用不便宜\"}]},\"評論總結\":{\"評價\":\"普通\",\"推薦結論\":\"飯店有著舒適的住宿空間與豐富的早餐，但位置相對較遠且價格較高，適合喜歡安靜環境的旅客。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041573,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 401,
+            "prompt_tokens": 620,
+            "total_tokens": 1021,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz8LXAiolKuCVVWePoOHCDIGCUOE",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"8/24晚上在煙波的餐廳裡吃火鍋，蔬菜部分種類少，玉米也不是很新鮮，肉片的部分，只能說中規中矩。 主食的部分，等了半個小時左右 1.有類似印度脆球，裡面的水果早已乾掉，連一點汁水都沒有 2.煎蝦子的部分，已經不新鮮，口感乾柴，且有些腥味跑出 3.至於類似壽司的飯上面鋪了三個半塊干貝和一些魚卵，干貝過熟無鮮味，糙米已被風乾，要吞下去要有一定的吞嚥能力 4.裡面尚可的就是煎鮭魚，用的是腹部與肉的交界處，有一定的油脂，但老實說，要做的不好吃也困難，搭配醬汁還不錯。 綜上所述，主食估計已經煮好大概二十分鐘有餘才端上桌，而非現烹調的，吃到這樣的食物，對不起煙波這個名稱，屬實非常失望。 義式冰淇淋是這家餐廳裡最好吃的東西，這兩顆星是給辛苦的服務生和冰淇淋的。\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"冰淇淋\",\"評價說明\":\"義式冰淇淋是這家餐廳裡最好吃的東西，值得推崇。\"},{\"關鍵字\":\"服務\",\"評價說明\":\"這兩顆星是給辛苦的服務生，顯示出對服務的某種肯定。\"}],\"負向評論\":[{\"關鍵字\":\"菜品衛生\",\"評價說明\":\"蔬菜部分種類少，玉米不新鮮，主食口感不佳，整體衛生質量低。\"},{\"關鍵字\":\"菜品新鮮度\",\"評價說明\":\"煎蝦子及干貝不新鮮，口感和品質都相當令人失望。\"},{\"關鍵字\":\"主食出品時間\",\"評價說明\":\"主食估計煮好大概二十分鐘有餘才端上桌，缺乏現烹調的水準。\"}]},\"評論總結\":{\"評價\":\"不推薦\",\"推薦結論\":\"整體而言，餐廳的菜品質量及新鮮度不佳，未達到預期，只有服務生和冰淇淋表現略佳，因此不推薦。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041577,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 621,
+            "prompt_tokens": 767,
+            "total_tokens": 1388,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz8Pii16tugi02HAQd2uANgcdcVt",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"房間乾淨舒適，早餐非常豐盛，晚上也很寧靜，安全性高住宿很放心，也有室內運動器材和泳池可使用，附近很多景點可以去逛逛走走，出差、度假、親子旅遊住宿的好選擇.\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"乾淨舒適\",\"評價說明\":\"房間保持良好衛生，讓人放鬆\"},{\"關鍵字\":\"早餐\",\"評價說明\":\"早餐選擇豐富，能滿足不同需求\"},{\"關鍵字\":\"寧靜\",\"評價說明\":\"晚上環境安靜，有利於休息\"},{\"關鍵字\":\"安全性\",\"評價說明\":\"感受到住宿的安全，讓人安心\"},{\"關鍵字\":\"設施\",\"評價說明\":\"提供室內運動器材和泳池，享受度假樂趣\"},{\"關鍵字\":\"位置\",\"評價說明\":\"附近有很多景點，方便遊玩\"}],\"負向評論\":[]},\"評論總結\":{\"評價\":\"推薦\",\"推薦結論\":\"這家飯店各方面表現優異，無論是住宿環境、餐飲質量還是便利位置，都非常適合出差或旅遊的客人，值得推薦。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041581,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 301,
+            "prompt_tokens": 512,
+            "total_tokens": 813,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz8RXwxjwjPJOm8MzDUVOSHpDajp",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"1.8/3 下午至櫃台辦理 Check in，被告知 Agoda 訂房需要到旁邊的自助機報到，但自助機一台維修，根本消化不完客人，大家擠在一塊體驗極差，接著無論輸入 Agoda 訂房姓名或訂單編號都頻頻報到失敗，看起來系統串接根本就不順暢，機台操作的 UI 也很糟糕，使用者體驗極差，結果旁邊的服務人員還是請求櫃檯的幫助，不知道在忙什麼，浪費大家時間。 2.早餐很豐盛且可以中午在吃，當早午餐吃還不錯 3.晚上有消夜可以吃，也有表演可以看，不錯 4.地點整體而言附近沒有太多餐廳，最後是叫外送，並且飯店還沒有可以放外送的地方，只能親自下樓領。整體而言覺得中規中矩，有優點也有缺點，有待加強。\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"早餐\",\"評價說明\":\"早餐很豐盛且可以中午在吃，當早午餐吃還不錯\"},{\"關鍵字\":\"消夜\",\"評價說明\":\"晚上有消夜可以吃，也有表演可以看，不錯\"}],\"負向評論\":[{\"關鍵字\":\"服務\",\"評價說明\":\"櫃檯辦理 Check in 的服務流程繁瑣，經常失敗，且服務人員無法有效幫助客人\"},{\"關鍵字\":\"設施\",\"評價說明\":\"自助機維修，導致客人擠在一塊，且系統操作體驗糟糕\"},{\"關鍵字\":\"位置\",\"評價說明\":\"附近沒有太多餐廳，外送取貨不便，導致不方便\"}]},\"評論總結\":{\"評價\":\"普通\",\"推薦結論\":\"整體體驗有優點如早餐和消夜，但也有顯著缺點如服務和設施的問題。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041583,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 497,
+            "prompt_tokens": 698,
+            "total_tokens": 1195,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz8W6HutXQCvGFQNL6gS4XgCJ1ex",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"這次帶男朋友到煙波慶生🎉 是在官網上訂購的方案，晚上六點check in 下午兩點退房，壽星超級滿意！很適合我們這種從台北下去比較晚到的人 住過其它家煙波，真的很喜歡煙波集團，因為服務都很好，住房也都很滿意。 這次有備注慶生，入住的時候也有準備生日卡片，讓壽星很開心🥳 活動： 這次入住晚上有活動：暗黑派派，大人小孩都可以去，晚上8:30-10:30有準備很多樣的小零食供房客使用，還有小遊戲，有感受到飯店的用心，小孩們看起來都很開心。 頂樓也有粉紅泡泡裝置藝術 ⚠️但唯一覺得可以進步的是食物的部分： 早餐真的超級多樣化的，本來非常的期待，但吃完後有一點失望，因為沒有一個是特別好吃的。 麵食的部分覺得涼皮跟哨子麵很好吃，但很可惜的是他們都會先把麵直接裝好，可能方便供大家直接拿，但這樣導致拿到的時候就已經涼掉了，而且哨子麵吃的時候也爛了，感覺是煮爛了～ 食物的部分真的可以再加強一下，除了這個其他住宿都很滿意！也很推薦～ Ps: 陽台蠻大的，但可惜沒有桌椅，不然就可以坐在外面看窗外的風景\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"服務\",\"評價說明\":\"服務都很好，住房也都很滿意\"},{\"關鍵字\":\"活動\",\"評價說明\":\"晚上有很精彩的活動，讓大人小孩都很開心\"},{\"關鍵字\":\"衛生\",\"評價說明\":\"整體住宿環境都很滿意\"}],\"負向評論\":[{\"關鍵字\":\"早餐\",\"評價說明\":\"早餐食物多樣，但味道讓人失望，沒有特別好吃的\"},{\"關鍵字\":\"設施\",\"評價說明\":\"陽台大但沒有桌椅，不方便使用\"}]},\"評論總結\":{\"評價\":\"推薦\",\"推薦結論\":\"即便早餐部分需要改善，整體服務與活動安排讓人感到滿意，強烈建議給予推薦。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041588,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 582,
+            "prompt_tokens": 829,
+            "total_tokens": 1411,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz8chZDAiw6DjdCO0CRjKHAdItNt",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"1.飯店位置屬於外圍，離市區較遠，優點是周邊寧靜，適合自行開車前往的人 2.大廳空間印入眼簾是開放調高～視覺上很明亮乾淨，服務人員的態度也親切；房間的走廊空間也是明亮清爽，不會有昏暗感 3.透過A訂房網的訂單可自行在自助機器辦理入住，製作房卡後即可自行入房 4.本次預定雙床家庭房，空間寬敞採光明亮，廁所與淋浴空間各一間，洗手盆與迷你吧設計成一個長檯面，房間還有一組雙人沙發/一張邊桌，休憩空間很足夠，但外帶餐點要食用時就顯得不便 5.房間沒有提供消耗型備品，需自行準備盥洗備品喔！其他沐浴洗髮乳/吹風機/毛巾仍有供應 6.洗臉盆旁有固定的化妝鏡，但沒有給化妝椅及桌面空間，必須使用小邊桌來化妝，這部分較不便利 7.房間的窗簾屬於遮光簾，但設計不佳，雙片窗簾的密合度不夠，早上會被漏光的強烈陽光干擾，希望飯店這部分可以改善 8.早餐種類豐富，很多創意料理與在地結合原住民料理，也提供健康的早餐食材，視覺上選擇很豐富，但口味上一般不會令人覺得經驗。 9.飯店位處郊外，有地下停車場也有戶外的停車空間，進出方便\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"服務\",\"評價說明\":\"服務人員的態度親切\"},{\"關鍵字\":\"衛生\",\"評價說明\":\"大廳空間明亮乾淨，房間走廊清爽\"},{\"關鍵字\":\"設施\",\"評價說明\":\"免費停車設施方便，房間空間寬敞，有完整的洗浴設施\"},{\"關鍵字\":\"早餐\",\"評價說明\":\"早餐種類豐富，提供創意料理選擇\"}],\"負向評論\":[{\"關鍵字\":\"位置\",\"評價說明\":\"飯店位置較偏遠，離市區遠，適合開車前往\"},{\"關鍵字\":\"設施\",\"評價說明\":\"房間未提供消耗型備品，且化妝空間不便利\"},{\"關鍵字\":\"窗簾\",\"評價說明\":\"窗簾設計不佳，早上會漏光影響睡眠\"}]},\"評論總結\":{\"評價\":\"普通\",\"推薦結論\":\"整體評價是普通，雖然飯店在環境與服務方面表現良好，但位置偏僻及某些設施的不足影響了住宿體驗。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041594,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 736,
+            "prompt_tokens": 894,
+            "total_tokens": 1630,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz8hjfrjjIqqcHPfTEOUFBX3bpWI",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"房間寬敞，視野佳，可惜地點較偏，期盼下次入住時有三溫暖可享用。 雖無溫泉，但天候不佳或旅途勞頓時，三溫暖不無小補。\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"房間\",\"評價說明\":\"房間寬敞，視野佳\"}],\"負向評論\":[{\"關鍵字\":\"地點\",\"評價說明\":\"可惜地點較偏\"},{\"關鍵字\":\"設施\",\"評價說明\":\"期盼下次入住時有三溫暖可享用\"}]},\"評論總結\":{\"評價\":\"普通\",\"推薦結論\":\"雖然房間條件良好，但地點偏遠及缺乏三溫暖設施使得整體體驗受到影響，建議選擇前考量位置。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041599,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 214,
+            "prompt_tokens": 502,
+            "total_tokens": 716,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz8kiEnVrga0ZMR8RxmGQTOauZZz",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"2024.07.11入住煙波飯店宜蘭館，這次約了妹妹們(2大1小)來宜蘭玩所以訂了一間兩人房跟一間四人房(訂房時就有告知訂房人員，希望兩間房間安排在隔壁間)，當時電訂時的服務人員說因為房型不同，但會盡量幫我們安排在同一層樓，7/11(四)下午辦理入住時，櫃台小姐幫我把兩人房升級成四人房，整個驚喜到(很開心地被升級成四人房)。 房間整體上很乾淨舒適，飯店周遭環境滿清幽安靜的，滿適合放鬆度假的。 再來最特別的就是就是宜蘭館晚上20:30-22:30飯店有「暗黑派派」，可帶小朋友體驗夜店風的空間，簡單來說就是兒童版的夜店啦! 還有炸物. 小餅乾、甜點(豆花.愛玉.綠豆.珍珠) 吃到飽，CP值很高。 隔天的早餐也很豐盛，最讚最特別的地方就是用餐入場的時間是06:30-13:30，可以讓你睡飽飽再起床用餐，等於是吃早午餐的概念，早午餐一起吃可以睡晚一點又省下一餐的費用。\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"服務\",\"評價說明\":\"櫃台服務人員的態度很親切，並且提供了升級房的驚喜。\"},{\"關鍵字\":\"衛生\",\"評價說明\":\"房間整體上很乾淨舒適。\"},{\"關鍵字\":\"設施\",\"評價說明\":\"飯店有特殊的夜店體驗，對小朋友來說非常有趣。\"},{\"關鍵字\":\"早餐\",\"評價說明\":\"早餐非常豐盛且用餐時間彈性大，方便客人休息。\"}],\"負向評論\":[]},\"評論總結\":{\"評價\":\"推薦\",\"推薦結論\":\"整體入住體驗非常滿意，推薦給家庭旅客，特別是帶小孩的家庭，服務、衛生及設施都讓人感到愉快。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041602,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 559,
+            "prompt_tokens": 796,
+            "total_tokens": 1355,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz8oZCazQn5HO0SlbGAa5jXpIWgs",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"大約下午2:30辦理入住，房間在八樓，可以理解提早入住房間還沒整理完，因此經過放進途中有許多房務人員以及在走道的推車 但無法理解的是等到時間到了下午4:30左右要出門吃晚餐時，推開房門依舊是一樣的景象清潔推車在房門口，且一大袋垃圾味道很噁心 為什麼接近晚餐時間依舊還在打掃，而且一開門就聞到垃圾車的噁心味道，完全無法理解四星級飯店的品質\",\"評論分析\":{\"正向評論\":[],\"負向評論\":[{\"關鍵字\":\"服務\",\"評價說明\":\"房間未按時整理完成，影響入住體驗\"},{\"關鍵字\":\"衛生\",\"評價說明\":\"垃圾味道噁心，影響環境的清潔與舒適感\"},{\"關鍵字\":\"設施\",\"評價說明\":\"清潔人員在打掃，造成不便\"}]},\"評論總結\":{\"評價\":\"不推薦\",\"推薦結論\":\"服務與衛生條件未達四星級水準，極度影響住客的體驗。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041606,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 286,
+            "prompt_tokens": 584,
+            "total_tokens": 870,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz8q79dcOhZzuWwzeYIXoBn54Vmi",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"住宿過三四次，覺得早午餐很好吃，看到網站有賣餐卷，隨即致電詢問，打了好幾通就是沒人接，接通之後又轉來轉去，一通電話10分鐘餐廳才有人接。 問了三四個人都不清楚餐卷怎麼賣，一下只能現場買，一下又說能郵寄，最後誰都不知道怎麼用，不了了之。 前後花了半小時打電話詢問，沒有得到任何結果。 過幾天不死心再打電話問，也是一樣狀況，結論是餐卷只適合本地人人買，外縣市要特別跑一趟現場買，但要下次才能用。那麼怕人家買，幹嘛賣.\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"早餐\",\"評價說明\":\"早午餐很好吃\"}],\"負向評論\":[{\"關鍵字\":\"服務\",\"評價說明\":\"客服電話未接且轉接不清晰，問了幾個人都不清楚餐卷如何使用\"},{\"關鍵字\":\"服務\",\"評價說明\":\"花了半小時打電話詢問餐卷信息但是沒有得到任何結果\"},{\"關鍵字\":\"設施\",\"評價說明\":\"餐卷購買流程混亂，不適合外縣市人\"}]},\"評論總結\":{\"評價\":\"不推薦\",\"推薦結論\":\"儘管早餐值得稱讚，但糟糕的客戶服務與購買過程的混亂使得整體體驗不佳，不推薦。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041608,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 373,
+            "prompt_tokens": 629,
+            "total_tokens": 1002,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz8to5Eqbej6jldwU0onOfgJEF55",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"如果對新竹館或台南館印象很好的話，宜蘭館可能會大失所望⋯什麼設施都沒有，唯一能稱讚的只有房間算整潔乾淨⋯空間也還ok⋯但是小孩真的無聊到爆⋯不算是能來享受飯店設施的選擇之一，附近都是公家機關，沒有任何店家，應該比較適合商務客，喜歡安靜的旅客，親子旅行建議避開⋯ 叫外送也不給寄放櫃檯要迅速下去拿⋯ 電視是mod沒有網飛和YouTube..\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"衛生\",\"評價說明\":\"房間算整潔乾淨\"},{\"關鍵字\":\"空間\",\"評價說明\":\"空間也還ok\"}],\"負向評論\":[{\"關鍵字\":\"設施\",\"評價說明\":\"什麼設施都沒有，不算是能來享受飯店設施的選擇之一\"},{\"關鍵字\":\"位置\",\"評價說明\":\"附近都是公家機關，沒有任何店家\"},{\"關鍵字\":\"服務\",\"評價說明\":\"叫外送也不給寄放櫃檯要迅速下去拿\"},{\"關鍵字\":\"娛樂\",\"評價說明\":\"電視是mod沒有网飞和YouTube\"}]},\"評論總結\":{\"評價\":\"不推薦\",\"推薦結論\":\"此飯店不適合親子旅行，缺乏設施和娛樂，且位置不便，總體體驗不佳。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041611,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 377,
+            "prompt_tokens": 598,
+            "total_tokens": 975,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz8xaiybWepXZIpz3AwrbNsigxLV",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"如果有浴缸就更好了 附近商店不多 建議採買好再入住 本次選擇18:00check in 隔日 14:00check out 的方案真是太棒了 很符合我們小度假悠哉的腳步\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"入住時間\",\"評價說明\":\"18:00check in 和 14:00check out 的方案非常符合度假需求，讓人感到悠閒\"}],\"負向評論\":[{\"關鍵字\":\"設施\",\"評價說明\":\"如果有浴缸的話將更完美\"},{\"關鍵字\":\"位置\",\"評價說明\":\"附近商店不多，建議提前備貨\"}]},\"評論總結\":{\"評價\":\"普通\",\"推薦結論\":\"飯店的入住時間安排非常符合度假感，但設施和位置上有所欠缺，整體評價為普通。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041615,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 213,
+            "prompt_tokens": 500,
+            "total_tokens": 713,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz8zSw25V6oAg2bJTgHHnXFxzkis",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"8/9～8/11入住. 8/9 晚上20:00到飯店辦理入住，天熱想沖涼再吃晚餐，卻發現浴缸有體毛，只好重新刷洗一番，並噴上酒精在刷洗一番.. 20:40至飯店一樓參加飯店餐點活動，貌似童趣的點心，不知道是個人口味關係，「喀哩喀哩」童趣餅乾發軟，不像正常餅乾..其餘餐點未多食用，便不久留出飯店要去便利商店，發現頗遠..可能需要跟飯店借腳踏車，無奈腳踏車數量很少，僅剩一台😅 8/10 早餐用餐時段8:00～13:30，非常不錯且彈性的時間。但滾籠烤麵包機掉下來的位置有點偏位導致夾取不順或掉到檯面上。 中午12:30房務員親切主動詢問是否整理或更換房內用品，並提供需求物品，這點很值得稱許。 8/11 退房，大家都擠在同一時間退房等電梯..越低樓層等越久..這點盼能有對策，緩解。\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"房務\",\"評價說明\":\"房務員親切主動詢問是否整理或更換房內用品，並提供需求物品，非常值得稱許。\"},{\"關鍵字\":\"早餐\",\"評價說明\":\"早餐用餐時段非常不錯且彈性的時間，讓人感到滿意。\"}],\"負向評論\":[{\"關鍵字\":\"衛生\",\"評價說明\":\"浴缸有體毛，需要重新刷洗，衛生狀況令人不安。\"},{\"關鍵字\":\"服務\",\"評價說明\":\"退房時電梯擁擠，導致等待時間過長，服務安排需要改善。\"},{\"關鍵字\":\"設施\",\"評價說明\":\"腳踏車數量很少，借用不便，且交通安排不佳。\"},{\"關鍵字\":\"餐點\",\"評價說明\":\"童趣餅乾發軟，不符合預期。\"},{\"關鍵字\":\"位置\",\"評價說明\":\"便利商店距離較遠，不方便。\"}]},\"評論總結\":{\"評價\":\"普通\",\"推薦結論\":\"雖然飯店有良好的服務和彈性的早餐時間，但在衛生、設施和位置等方面存在一些問題，整體體驗未達預期，需加以改進。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041617,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 622,
+            "prompt_tokens": 758,
+            "total_tokens": 1380,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz94yO3pNbFD3IDMnzG3vMsDYx3i",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"煙波系列我住過新竹兩間以及煙波花時間，入住體驗都非常好，沒有想到宜蘭館是這樣的。兩顆星給停車場和早餐。5000一晚覺得有夠冤。 1、智能自助報到應給旅客選擇方便使用，而不是規定用第三方平台訂房的旅客使用。有看到很多不擅3c的長輩卡在機台前很久，也很狼狽，也沒有人立刻協助，還沒入住心情就差了。 2、承上，辦理入住櫃檯根本就沒有人，是否應彈性使用。兩位櫃檯服務人員就是冷漠的表示「我們這邊是官網訂房，xxx的要用那邊機台報到喔」，用第三方平台就是次等房客的感覺？ 3、智能機台報到後還要到旁邊的櫃檯排隊確認方案，豈不是多此一舉？覺得顧智能機台的人員非常忙碌，和入住櫃檯一比勞務明顯分配不均。 4、櫃檯服務人員對幼童非常不友善，故意用嘲諷家長的語氣對著幼童說話。 5、馬桶水壓不太夠。 6、餐廳位置很擠，不知為何早餐沒有提供兒童椅，看看隔壁幾桌也都是如此。\",\"評論分析\":{\"正向評論\":[],\"負向評論\":[{\"關鍵字\":\"服務\",\"評價說明\":\"櫃檯服務人員冷漠且對幼童不友善，給人次等房客的感覺。\"},{\"關鍵字\":\"早餐\",\"評價說明\":\"早餐提供的環境擁擠，且不提供兒童椅。\"},{\"關鍵字\":\"設施\",\"評價說明\":\"智能自助報到系統不夠友好，造成許多不擅3C的旅客困擾。\"},{\"關鍵字\":\"位置\",\"評價說明\":\"餐廳安排不佳，位置緊湊，造成用餐不便。\"},{\"關鍵字\":\"衛生\",\"評價說明\":\"馬桶水壓不足，影響使用體驗。\"}]},\"評論總結\":{\"評價\":\"不推薦\",\"推薦結論\":\"這次的入住體驗不佳，服務不友善、設施便利性不足及衛生情況欠佳，使得整體感受不符合5000元的價位，建議改善服務質量與設施的使用便利性。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041622,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 628,
+            "prompt_tokens": 805,
+            "total_tokens": 1433,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz9AsjzksB42vfR7kNCE2riQepPA",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"環境良好 很舒適 推薦大家來 早午餐種類非常多元 提供至 13:30 真的是晚起人的福音 可以睡飽再起來吃\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"環境\",\"評價說明\":\"環境良好，讓人感到舒適\"},{\"關鍵字\":\"舒適度\",\"評價說明\":\"房間舒適，讓人放鬆\"},{\"關鍵字\":\"早餐\",\"評價說明\":\"早午餐種類非常多元，適合不同人的需求\"}],\"負向評論\":[]},\"評論總結\":{\"評價\":\"推薦\",\"推薦結論\":\"整體環境和餐食都達到很高的水準，非常適合休閒放鬆，值得推薦給其他旅客。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041628,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 183,
+            "prompt_tokens": 481,
+            "total_tokens": 664,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz9Cj1BZXdtwj1B8ebuWTPdr4lS6",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"房間內的浴室、廁所以及洗手台是分開的 多人入住時不用為了等待而浪費許多時間👍 床頭櫃旁的插座，也很貼心的設置了一個USB孔位，讓忘了攜帶充電座的旅客也能順利使用 樓層備有飲水機，如果飲水量比較大，或是半夜要吃泡麵之類的，都非常方便 另外，今天晚上點了外送，但忘記索取餐具，向服務人員詢問時，他也非常迅速的解決了這個問題！ 唯一美中不足的是電梯比較緩慢，如果住低樓層的需要等待時間會有點長，建議提早出門😅\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"設施\",\"評價說明\":\"房間內的浴室、廁所及洗手台分開，方便多人入住\"},{\"關鍵字\":\"服務\",\"評價說明\":\"服務人員迅速解決了詢問問題\"},{\"關鍵字\":\"舒適度\",\"評價說明\":\"床頭櫃的USB孔設置讓旅客方便充電\"}],\"負向評論\":[{\"關鍵字\":\"設施\",\"評價說明\":\"電梯比較緩慢，住低樓層需要等待時間較長\"}]},\"評論總結\":{\"評價\":\"推薦\",\"推薦結論\":\"整體服務與設施便利，唯獨電梯速度可改進，因此值得推薦。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041630,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 352,
+            "prompt_tokens": 617,
+            "total_tokens": 969,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz9GmB9vg31WydLbHm39Ucn34IRP",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"地處荒涼，要哪邊走走都不太方便，地下室車位不多，平面有很多車位。 -早餐非常棒，每次來都有新餐點，有很多其他早午餐沒有的特色，例如可用餐到中午1點、特殊粉包（芝麻粉、酵素粉等等）、豆花、冰淇淋、花枝意麵、馬告香腸等等料理特殊，好吃！且價格600多元很划算！ -早餐廳有高牆擋住光線，感覺像是地下室用餐… -有6點入住，隔日下午2點退房的服務，晚入住可晚退房，很方便調整行程 -飯店設施極少，沒有健身房、游泳池等地方，所以只能待在閱覽室和房間，有點無聊，房間景觀也很少，頂多看到小角落山景，入住後要自己找方法打發時間，因為出去都是田間路 -房間設備不多，只有可提供牙刷、浴帽的備品，固定式有沐浴乳、洗髮精、洗手乳。有除濕機讚讚。 🍀沒有潤髮乳、棉花棒等備品。吹風機有點冷、風量弱，建議長頭髮要自己帶吹風機😞。 🍀5000元宜蘭好飯店住宿可以有更好的選擇。 🍀餐廳是很推，不住宿來吃都划算。\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"早餐\",\"評價說明\":\"早餐非常棒，每次都有新餐點和多種特色，且價格划算。\"},{\"關鍵字\":\"服務\",\"評價說明\":\"有方便的入住和退房服務，能靈活調整行程。\"},{\"關鍵字\":\"除濕機\",\"評價說明\":\"房間有除濕機使用，獲得讚賞。\"}],\"負向評論\":[{\"關鍵字\":\"位置\",\"評價說明\":\"地處荒涼，不方便出行。\"},{\"關鍵字\":\"設施\",\"評價說明\":\"飯店設施極少，沒有健身房和游泳池，活動空間有限。\"},{\"關鍵字\":\"房間設備\",\"評價說明\":\"房間設備不夠完善，缺少基本備品，如潤髮乳和棉花棒。\"}]},\"評論總結\":{\"評價\":\"普通\",\"推薦結論\":\"早餐和餐廳值得推薦，但位置和設施讓整體體驗普通，若尋求活動或舒適度，可能有更好的選擇。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041634,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 610,
+            "prompt_tokens": 792,
+            "total_tokens": 1402,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz9MHnRRf3CQzB3hpQJdI7f8VLNT",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"第一次入住煙波，4人房的空間很大，view也很好，但以下幾點，讓我們覺得有點可惜： 1.除了頂樓的網美拍照的裝置藝術，沒有其他什麼適合小孩的設施。 2.戶外雖然有類似酒吧的高腳桌椅，但現場並沒有可以點飲品的櫃台，只能自己買上去喝。 3.沒有洗烘衣機，讓住客可以洗衣服 4.早餐供應時間夠長(06：30～13：30)可以慢慢吃，菜色＆口味也都不錯。 但補貨速度需要加強。 5.地理位置有一點點偏，週邊有不少綠地車流量也少，建議可以爭取設置ubike站，讓房客可以騎腳踏車悠閒的在附近逛逛。\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"空間\",\"評價說明\":\"4人房的空間很大\"},{\"關鍵字\":\"view\",\"評價說明\":\"view也很好\"},{\"關鍵字\":\"早餐\",\"評價說明\":\"早餐供應時間夠長，菜色＆口味也不錯\"}],\"負向評論\":[{\"關鍵字\":\"設施\",\"評價說明\":\"除了頂樓的裝置藝術，沒有其他適合小孩的設施\"},{\"關鍵字\":\"服務\",\"評價說明\":\"戶外沒有可以點飲品的櫃台，只能自己買上去喝\"},{\"關鍵字\":\"設施\",\"評價說明\":\"沒有洗烘衣機，讓住客可以洗衣服\"},{\"關鍵字\":\"補貨\",\"評價說明\":\"早餐的補貨速度需要加強\"},{\"關鍵字\":\"位置\",\"評價說明\":\"地理位置有一點點偏，需設置ubike站\"}]},\"評論總結\":{\"評價\":\"普通\",\"推薦結論\":\"飯店的空間和view表現良好，但設施和服務上還有改善空間，整體體驗中規中矩。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041640,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 490,
+            "prompt_tokens": 660,
+            "total_tokens": 1150,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz9QeG9BKHFxRkr1NCotLR8eGroW",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"帶5個月嫩嬰入住，有提供嬰兒床、消毒鍋跟澡盆，雖然床圍欄太高，放嬰兒下去很難安撫馬上就會醒，其他都非常好，服務態度極佳。早餐非常好吃，很多特色料理。遊戲區要等再大一點才能玩，有機會再去入住。\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"服務\",\"評價說明\":\"服務態度極佳\"},{\"關鍵字\":\"衛生\",\"評價說明\":\"其他都非常好\"},{\"關鍵字\":\"早餐\",\"評價說明\":\"早餐非常好吃，很多特色料理\"}],\"負向評論\":[{\"關鍵字\":\"設施\",\"評價說明\":\"床圍欄太高，放嬰兒下去很難安撫\"}]},\"評論總結\":{\"評價\":\"推薦\",\"推薦結論\":\"飯店服務態度好，早餐美味，整體體驗優良，唯一小缺點是嬰兒床的設施，總體上值得推薦。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041644,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 250,
+            "prompt_tokens": 529,
+            "total_tokens": 779,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz9TnrJtf2QECSNXgvprmMSJms5H",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"第一次來，體驗非常好，服務人員非常友善，環境也很讚，下次一定會再來住😊\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"服務\",\"評價說明\":\"服務人員非常友善\"},{\"關鍵字\":\"環境\",\"評價說明\":\"環境也很讚\"}],\"負向評論\":[]},\"評論總結\":{\"評價\":\"推薦\",\"推薦結論\":\"這條評論表達出對飯店的高度滿意，服務友善且環境良好，建議其他人選擇這家飯店。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041647,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 137,
+            "prompt_tokens": 469,
+            "total_tokens": 606,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz9U1yeqZk9iAl8oOoInt5AbddBp",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"1.房間舒適非常大 2. 早餐豐盛，但台南館更厲害 3. 用餐位置太擠，人潮湧入需小心取餐 4. 停車空間大，非常方便 5. 不足之處，用會員點數換的2杯咖啡，拿回房間時發現都做錯口味，是退房前的小遺憾 6. 下次再訪宜蘭，會再選擇入住\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"房間舒適\",\"評價說明\":\"房間非常大且舒適\"},{\"關鍵字\":\"早餐\",\"評價說明\":\"早餐豐富，雖然台南館更佳\"},{\"關鍵字\":\"停車空間\",\"評價說明\":\"停車非常方便\"}],\"負向評論\":[{\"關鍵字\":\"用餐位置\",\"評價說明\":\"用餐區域擁擠，需要小心取餐\"},{\"關鍵字\":\"服務\",\"評價說明\":\"會員換咖啡時口味出錯，造成小遺憾\"}]},\"評論總結\":{\"評價\":\"推薦\",\"推薦結論\":\"整體評價積極，雖然有小遺憾，但無影響再次選擇入住的決定。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041648,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 299,
+            "prompt_tokens": 550,
+            "total_tokens": 849,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz9X6COCsi9dtI7unSa58FpAthuu",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"2014/08/09開車來可以先直接開到地下室停，不用先放人下車check in，房間乾淨舒適，一般入住房客晚上還有點心（非團體），特別的是早餐可以一路吃到下午13:30，早午餐一起吃超讚的，食材都很多吃的很飽，服務人員也很客氣，附大廳圖參考\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"房間\",\"評價說明\":\"房間乾淨舒適\"},{\"關鍵字\":\"早餐\",\"評價說明\":\"早餐可以一路吃到下午13:30，早午餐一起吃超讚，食材都很多吃的很飽\"},{\"關鍵字\":\"服務\",\"評價說明\":\"服務人員也很客氣\"}],\"負向評論\":[]},\"評論總結\":{\"評價\":\"推薦\",\"推薦結論\":\"整體體驗非常良好，房間舒適，早餐選擇豐富，服務優良，值得推薦。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041651,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 240,
+            "prompt_tokens": 537,
+            "total_tokens": 777,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz9ZjEbwwBnmD8bJV05XOLplinWf",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"地點偏遠如果沒有開車有點難到。雖然沒有游泳池也沒有健身房，但是有交誼廳，內有提供泡麵及零食的販賣機，也有一些書籍可以翻閱，細翻的話會發現很多童書都被撕爛。 頂樓有2層，一層網美牆，再走樓梯上去有一小區兒童遊戲區跟可以滾的軟墊。戶外也有規劃一區可以讓小小孩爬的設施，還不錯！\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"設施\",\"評價說明\":\"雖然沒有游泳池和健身房，但提供了交誼廳和多種遊戲設施。\"},{\"關鍵字\":\"兒童遊戲區\",\"評價說明\":\"有規劃兒童遊戲區和爬行設施，適合小孩。\"},{\"關鍵字\":\"販賣機\",\"評價說明\":\"交誼廳內提供泡麵及零食便利。\"},{\"關鍵字\":\"書籍\",\"評價說明\":\"雖然書籍有損壞，但提供了一定的閱讀資源。\"}],\"負向評論\":[{\"關鍵字\":\"位置\",\"評價說明\":\"地點偏遠，沒有車會導致交通不便。\"},{\"關鍵字\":\"設施\",\"評價說明\":\"缺乏游泳池和健身房，設施可能不足以滿足所有需求。\"}]},\"評論總結\":{\"評價\":\"普通\",\"推薦結論\":\"飯店提供的兒童遊戲區和設施對家庭友好，但偏遠的地理位置和設施的不足使得這次住宿亮點有限。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041653,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 410,
+            "prompt_tokens": 576,
+            "total_tokens": 986,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz9c3CVn5VlsP96vdrIZxzmjqTQC",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"7/30更改評論 謝謝飯店打電話來做溝通跟致歉 雖然有意外小插曲但能感受到飯店的用心 ————————————————— 很失望的一次體驗 帶爸爸和妹妹來過生日 看到其他人有貼文生日有投影小燈那些 詢問line客服有提供嗎？說沒有(那也算了反正是額外的 但我買的2個生日蛋糕請服務人員幫忙冰 結果晚上到櫃檯領取的時候 服務人員在我面前手滑蛋糕直接毀了一個 真的很傻眼一點表示也沒有！也沒道歉！只說如果要點蠟燭可以打電話請你們幫忙！ 一個好好生日之旅搞成這樣～爸爸70大壽難得帶他出遊～早餐也沒有我之前在台南煙波吃得好 然候晚上睡覺側躺的時候想說臉怎麼刺刺的 結果一個枕頭上穿出來一個尖尖的東西也拔不掉 只能墊另外一個枕頭睡～ 然候可能因為暑假的關係小朋友多～隔音很爛 從早吵到晚～～～～～太難熬了\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"服務\",\"評價說明\":\"飯店有打電話來溝通並致歉，顯示用心。\"}],\"負向評論\":[{\"關鍵字\":\"服務\",\"評價說明\":\"服務人員在損壞蛋糕後並未表達歉意，反覺不佳。\"},{\"關鍵字\":\"衛生\",\"評價說明\":\"枕頭上有尖利物體，影響睡眠舒適度。\"},{\"關鍵字\":\"設施\",\"評價說明\":\"早餐品質不如之前住宿的飯店，令人失望。\"},{\"關鍵字\":\"隔音\",\"評價說明\":\"隔音很差，導致從早吵到晚的困擾。\"}]},\"評論總結\":{\"評價\":\"不推薦\",\"推薦結論\":\"整體體驗極差，服務不佳、衛生問題及隔音困擾，使得此次住宿經歷令人失望。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041656,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 534,
+            "prompt_tokens": 749,
+            "total_tokens": 1283,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz9iaeA9Dec3Q7DILFjsVKKaaXfN",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"飯店給人感覺小巧精緻，晚上的暗黑派隊給小朋友跟大人帶來很多歡樂，尤其感謝小丑叔叔，小朋友幾乎人人有獎，超開心。早餐食材也很新鮮，而且有宜蘭特色，用餐時間也到中午，適合晚起的人。飯店備品是有機的洗髮精、沐浴乳。這次住宿感覺很棒。只是兒童遊戲室太單調了，希望能多增加一點設施玩具。\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"服務\",\"評價說明\":\"舉辦的晚會活動讓小朋友和大人都感到快樂，服務質量高。\"},{\"關鍵字\":\"早餐\",\"評價說明\":\"早餐食材新鮮，具有當地特色，適合晚起的客人。\"},{\"關鍵字\":\"舒適度\",\"評價說明\":\"住宿感覺很棒，讓客人有良好的體驗。\"}],\"負向評論\":[{\"關鍵字\":\"設施\",\"評價說明\":\"兒童遊戲室設施單調，希望能增加更多玩具。\"}]},\"評論總結\":{\"評價\":\"推薦\",\"推薦結論\":\"整體住宿體驗非常好，特別適合家庭旅客，但兒童遊戲設施的改善可以提升更多滿意度。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041662,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 325,
+            "prompt_tokens": 569,
+            "total_tokens": 894,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz9kIgyQkikId85PeDNJy6rJ299h",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"整體體驗很好 房務人員把房間打掃的很乾淨舒適 免費的早午餐很有特色\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"服務\",\"評價說明\":\"房務人員的服務非常好，房間打掃得很乾淨和舒適。\"},{\"關鍵字\":\"衛生\",\"評價說明\":\"房間的清潔程度讓人感到舒適，符合衛生標準.\"},{\"關鍵字\":\"早餐\",\"評價說明\":\"免費的早午餐很有特色，增加了入住的滿意度。\"}],\"負向評論\":[]},\"評論總結\":{\"評價\":\"推薦\",\"推薦結論\":\"整體體驗很好，房務人員的服務與房間的衛生以及早餐都給人很好的印象，值得推薦。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041664,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 191,
+            "prompt_tokens": 469,
+            "total_tokens": 660,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz9nbWyL408CuDxwQXsTqkBVn1HM",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"8/4號入住飯店 大廳接待人員很細心看到我太太是孕婦主動詢問是否需要多一個枕頭 而且每位服務人員都很有禮貌 還有可以拍照的網美景點 晚上還有活動跟小點心 美中不足的地方 不知道是不是客人過於集中在同一個時間 點心空盤率很高 雖然補充很快 但是東西好像沒有熟當天吃到的地瓜圓跟芋圓裡面粉粉的不是q的而且還有點硬 當下有跟服務人員反應可是後面也不了了之 希望下次多注意\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"服務\",\"評價說明\":\"接待人員細心，主動詢問孕婦需求，服務人員禮貌\"}],\"負向評論\":[{\"關鍵字\":\"設施\",\"評價說明\":\"點心空盤率高，食物熟度不足，芋圓口感不佳\"}]},\"評論總結\":{\"評價\":\"普通\",\"推薦結論\":\"整體服務表現佳，但部分設施及食品品質需改善\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041667,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 282,
+            "prompt_tokens": 602,
+            "total_tokens": 884,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz9p85OsSqm4WFIuNy85St6AbDYX",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"這是3840的活動。與導遊請教了台灣的假日房價怎麼可以貴成這樣？太太太貴啦！ 原來是外來客太少。台灣本地內需求習慣又不是在平日旅遊而是認真工作假日再認真放鬆充電。 對於飯店業者幾乎變成假日飯店平日蚊子館的冏況！ 在平衡成本下。只能拉高住宿費用！ 最近香港朋友來台也覺得真的是貴的不符實際水準。但也沒辦法。 就當久久來一次出國旅遊該付的吧！ 那更何況國內旅遊的內心爭扎？\",\"評論分析\":{\"正向評論\":[],\"負向評論\":[{\"關鍵字\":\"價格\",\"評價說明\":\"飯店的假日價格被認為過高，不符合實際水準。\"},{\"關鍵字\":\"服務\",\"評價說明\":\"提到台灣本地內需求及外來客少，造成飯店業的經營困境，暗示服務上受到影響。\"}]},\"評論總結\":{\"評價\":\"不推薦\",\"推薦結論\":\"整體上，評論者對於飯店的價格感到不滿，認為高於實際水準，有負面感受，因此不建議。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041669,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 319,
+            "prompt_tokens": 612,
+            "total_tokens": 931,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz9s7AtL4iT7rVFvQTitjqLOQdma",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"從櫃檯接待到餐廳服務人員、晚間停車引導人員、房務人員都親切專業有禮👍。 早餐時間拉很長，讓晚起的客人也可悠閒享用👍 菜色多樣（但豐富性臺南還是勝）。 房間大且舒適，浴室分成四個區域（淋浴間、廁所、洗手台、更衣區）讓各使用者都不會強碰到👍 推薦來宜蘭住這🌟🌟🌟🌟🌟\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"服務\",\"評價說明\":\"所有服務人員都親切專業有禮\"},{\"關鍵字\":\"早餐\",\"評價說明\":\"早餐時間長，菜色多樣，讓客人悠閒享用\"},{\"關鍵字\":\"舒適度\",\"評價說明\":\"房間大且舒適，浴室設計合理\"}],\"負向評論\":[]},\"評論總結\":{\"評價\":\"推薦\",\"推薦結論\":\"整體體驗非常正向，特別是服務、早餐及房間舒適度，強烈建議來此住宿。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041672,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 281,
+            "prompt_tokens": 577,
+            "total_tokens": 858,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz9uke39m5xBo7CJGJEaTJvWBxpg",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"服務超棒！中午打包的食物飯店人員還願意幫忙微波加熱跟借我們餐盤食用，讓人感到很貼心！\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"服務\",\"評價說明\":\"飯店人員提供了出色的服務，包括幫助微波加熱和借用餐盤，令人感到貼心。\"}],\"負向評論\":[]},\"評論總結\":{\"評價\":\"推薦\",\"推薦結論\":\"根據評論顯示，飯店的服務品質非常好，提供了額外的幫助，因此值得推薦。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041674,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 146,
+            "prompt_tokens": 481,
+            "total_tokens": 627,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMz9wymvLKNPFpfjZMT6kdZQtdVNe",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"為了慶祝父親節，8/3晚上訂了燦燦好食火鍋套餐，極嚮套餐（每份$1580+10%）海鮮盤蝦、蟹非常不新鮮，向服務人員反應後，得到的是官方回應「這是海鮮品種原來的口感」，我們是宜蘭在地人，什麼是新鮮的海鮮我們是吃的出來的！得到這種回覆真的很失望。而且上餐時間很慢，同一桌點二份一樣的套餐（每份$980+10 ％），先來了一份，催了好幾次，半小時後才送來第二份，服務人員說新鮮肉品現切需要時間，但訂單兩份是一樣的食材，無法一起處理？又是官方回應。 套餐提供蔬果自助吧，種類少、補充食材的速度很慢，甚至有菜葉沒有清洗乾淨，上面有一坨不知何物的髒東西；沒有提供任何自助飲料（只有白開水）；放冰淇淋勺的水槽應該是有流動水龍頭，但未啟動流動水⋯ 衝著煙波集團的風評來用餐，卻得到物差不值的服務，我想不會再去消費了。\",\"評論分析\":{\"正向評論\":[],\"負向評論\":[{\"關鍵字\":\"海鮮\",\"評價說明\":\"海鮮不新鮮，服務人員回复不良\"},{\"關鍵字\":\"服務\",\"評價說明\":\"上餐時間很慢，食材不一致，服務不滿意\"},{\"關鍵字\":\"蔬果自助吧\",\"評價說明\":\"種類少且補充速度慢，有髒污的食材\"},{\"關鍵字\":\"飲料\",\"評價說明\":\"只提供白開水，沒有其他選擇\"}]},\"評論總結\":{\"評價\":\"不推薦\",\"推薦結論\":\"因為食品不新鮮、服務不佳、環境衛生不達標，顯示出服務質量低且食品價格過高，故不推薦此飯店。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041676,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 518,
+            "prompt_tokens": 769,
+            "total_tokens": 1287,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMzA0yKpIVIMpwU3mD73cKNY0Wre7",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"整體體驗很棒，尤其餐廳的食物很好吃，只有有些小細節需要加強 1.廁所的排氣循環不好，異味排除太慢 2.浴室蓮蓬頭出水量不太大 3.洗手台如有小椅子會更棒\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"食物\",\"評價說明\":\"餐廳的食物很好吃\"},{\"關鍵字\":\"整體體驗\",\"評價說明\":\"整體體驗很棒\"}],\"負向評論\":[{\"關鍵字\":\"排氣循環\",\"評價說明\":\"廁所的排氣循環不好，異味排除太慢\"},{\"關鍵字\":\"出水量\",\"評價說明\":\"浴室蓮蓬頭出水量不太大\"}]},\"評論總結\":{\"評價\":\"普通\",\"推薦結論\":\"整體體驗良好，但存在一些小問題需要改進。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041680,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 229,
+            "prompt_tokens": 516,
+            "total_tokens": 745,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMzA2zhGTyMvauZeruplpvCh0gkAd",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"看了網紅介紹感覺不錯去吃看看，一人要價600+10%。約1000入座，吃到約1200,龍蝦味増湯：連渣都沒有只剩湯。 和牛肉燥：剩渣沒吃到過。 吃到後來想來點冰淇淋：又空了也沒得吃。 其他料理是還挺有特色，但這補菜速度要我花660還要從台北開過來吃，打死不可能了。\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"特色\",\"評價說明\":\"其他料理是還挺有特色。\"}],\"負向評論\":[{\"關鍵字\":\"價格\",\"評價說明\":\"一人要價600+10%\"}]},\"評論總結\":{\"評價\":\"不推薦\",\"推薦結論\":\"整體來看，雖然有些料理有特色，但價格高且服務不佳，特別是補菜速度過慢，讓人感到失望，不建議再次前往。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041682,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 242,
+            "prompt_tokens": 560,
+            "total_tokens": 802,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMzA4VJmHyRJ1Pwhyzo3ZwjM5r9qC",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"房間很乾淨舒適，但早午餐炸物有點冷了有點硬！建議遊戲區可以多增加一些設施，而不是放兩套廚房玩具就沒了！\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"衛生\",\"評價說明\":\"房間很乾淨\"}],\"負向評論\":[{\"關鍵字\":\"早餐\",\"評價說明\":\"早午餐炸物有點冷了有點硬\"},{\"關鍵字\":\"設施\",\"評價說明\":\"建議遊戲區可以多增加一些設施\"}]},\"評論總結\":{\"評價\":\"普通\",\"推薦結論\":\"雖然房間及衛生都很良好，但早餐品質和設施的不足令人失望，整體上沒有辦法給出特別推薦。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041684,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 188,
+            "prompt_tokens": 487,
+            "total_tokens": 675,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMzA6HunxRhbEcBIuMw4gqjoCXwky",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"四人房空間大又舒適\\n窗戶旁有沙發跟小桌子\\n三分式衛浴👍\\n館內設施雖然不多 但停車位子滿足夠的\\n頂樓有遊戲室帶小孩也能玩\\n戶外也有空間可以坐下喝酒🍻\\n服務人員都很親切\\n很喜歡晚上的甜點派對🎉\\n推薦一定要吃豆漿奶酪！ 超級綿密嫩到不行～\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"舒適度\",\"評價說明\":\"四人房空間大又舒適，窗戶旁有沙發跟小桌子，提供良好的休息環境。\"},{\"關鍵字\":\"服務\",\"評價說明\":\"服務人員都很親切，令顧客感到受歡迎。\"},{\"關鍵字\":\"設施\",\"評價說明\":\"頂樓有遊戲室，適合帶小孩的家庭，並且也有戶外空間可以放鬆。\"},{\"關鍵字\":\"早餐\",\"評價說明\":\"晚上的甜點派對很受歡迎，尤其是豆漿奶酪，口感極佳。\"}],\"負向評論\":[]},\"評論總結\":{\"評價\":\"推薦\",\"推薦結論\":\"這是一條極為正面的評論，強調飯店的舒適度、友好的服務和豐富的活動設施，值得推薦給其他顧客。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041686,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 343,
+            "prompt_tokens": 557,
+            "total_tokens": 900,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMzA8dyz17Ln8GdYAb1pz39PhXc4y",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"飯店很舒服，早午餐很適合住飯店喜歡賴床的人，但沒有游泳池比較可惜一點。\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"舒適度\",\"評價說明\":\"飯店很舒服，住得很愉快。\"},{\"關鍵字\":\"早餐\",\"評價說明\":\"早午餐很適合喜歡賴床的人。\"}],\"負向評論\":[{\"關鍵字\":\"設施\",\"評價說明\":\"沒有游泳池比較可惜。\"}]},\"評論總結\":{\"評價\":\"普通\",\"推薦結論\":\"飯店的舒適度和早餐質量都很好，但缺乏游泳池可能影響部分客人的滿意度。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041688,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 170,
+            "prompt_tokens": 471,
+            "total_tokens": 641,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMzAA1wTtV0WYxN7fJdV4BQECD3Mi",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"我不是住宿，是選擇早午餐時段，早上6:30至下午1:30的用餐方案，600+10%/每人，餐食種類不多，熱食類的口味都不錯，水果 甜點 冰品 都還可以，但是以下的照片⋯ 1.落地窗沒有景色有水幕造景，但是玻璃很髒 ，不舒服。 2.用餐四小時，整台餐車一直在用餐區域推來推去的收拾餐盤，一直看到廚餘桶跟用過的餐盤還有推車發出很大的聲響，女兒還驚恐了一下。 3.不理解為什麼現場沒有提供冰塊？想喝冰美式就需要一直跟服務人員要，很不方便，還有現場補餐盤的聲響很大，覺得煙波餐食還有很大的進步空間。\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"餐食口味\",\"評價說明\":\"熱食類的口味都不錯，水果、甜點、冰品的表現也還可以。\"}],\"負向評論\":[{\"關鍵字\":\"清潔度\",\"評價說明\":\"落地窗玻璃很髒，令人不舒服。\"},{\"關鍵字\":\"服務\",\"評價說明\":\"用餐時餐車不斷收拾餐盤，發出噪音，影響用餐體驗。\"},{\"關鍵字\":\"方便性\",\"評價說明\":\"沒有提供冰塊，需要頻繁要求服務人員，造成不便。\"}]},\"評論總結\":{\"評價\":\"普通\",\"推薦結論\":\"雖然餐食的口味尚可，但服務與環境的多數問題影響了用餐體驗，因此不做推薦。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041690,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 419,
+            "prompt_tokens": 656,
+            "total_tokens": 1075,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMzADQrIBJC7m1TekL34zUaAN3bAz",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"因信用卡推薦使用平台Expedia 上預定，平台的費用貴一點卻不含早餐，當天入住才知道官網預定或是其他平台反而價低含早餐，當下心情真的很差，感覺被平台當盤子了，服務我們的蕭小姐（名牌有寫kelly）,協助我們跟平台取消並重新預定，真的很感謝她，完全體諒我們的心情 飯店乾淨整潔，早餐真的豐盛到心情好一整天，收拾餐盤的服務人員也很關心客人的用餐狀況，整體下來，第一次住煙波，完全五顆星！👍\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"服務\",\"評價說明\":\"服務的蕭小姐（kelly）協助顧客解決了訂房問題，表現出色，讓顧客感受到貼心的服務。\"},{\"關鍵字\":\"衛生\",\"評價說明\":\"飯店乾淨整潔，顧客對衛生有很好的評價。\"},{\"關鍵字\":\"早餐\",\"評價說明\":\"早餐豐盛，讓顧客心情愉悅，整體用餐體驗良好。\"}],\"負向評論\":[{\"關鍵字\":\"價格\",\"評價說明\":\"通過平台預定的費用較貴且不含早餐，造成顧客初入住時心情不佳。\"}]},\"評論總結\":{\"評價\":\"推薦\",\"推薦結論\":\"雖然最初因平台價格較高而感到不滿意，但飯店的服務、衛生和早餐表現都令人滿意，因此整體來說是一次愉快的住宿經驗，推薦給其他客人。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041693,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 412,
+            "prompt_tokens": 602,
+            "total_tokens": 1014,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMzAGVLwp3fqiPmSHCBumeX8VCDpB",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"每個人都很親切！昨天傍晚五點多到自助結帳機check in 旁邊的櫃檯田小姐細心跟我們介紹完後，注意到我腳上的傷口，跟我說如果有需要可以包紮🥹 這點小細節都注意到我要哭ㄌ，也謝謝今天早上幫我包紮的櫃檯石先生🙏\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"服務\",\"評價說明\":\"櫃檯工作人員很親切且細心，能注意到顧客的需求和提供幫助。\"},{\"關鍵字\":\"關懷\",\"評價說明\":\"對傷口的關心和提供包紮服務顯示出細節的關懷和良好的服務態度。\"}],\"負向評論\":[]},\"評論總結\":{\"評價\":\"推薦\",\"推薦結論\":\"服務人員的細心和親切度讓顧客感到被關心，推薦這家飯店。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041696,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 243,
+            "prompt_tokens": 537,
+            "total_tokens": 780,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMzAIGZaEYunCQVzsrccgB8xrzpoM",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"來宜蘭吃早午餐，60歲以上銀髮族$399免收服務費！早上10:00用餐到13:30..喝了豆漿牛奶，咖啡！覺得和牛小漢堡好吃！其他很普通！水果只吃紅黃西瓜！冰淇淋超硬，挖不起來，也不是好吃的口味！補菜數度慢，有些甚至空很久…坐在靠窗位，沒人收盤子，只有在12點後客人剩八成才開始有人來收，我和先生看不慣，幾乎都是自己端出去給服務員…平日早上10點人滿滿，位子很擠，吃完口乾舌燥，回家猛灌水…\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"服務\",\"評價說明\":\"在用餐期間服務員的收盤服務很慢，讓顧客不得不自行端走盤子。\"}],\"負向評論\":[{\"關鍵字\":\"設施\",\"評價說明\":\"冰淇淋口感不好，超硬，難以挖起，影響用餐體驗。\"},{\"關鍵字\":\"服務\",\"評價說明\":\"補菜速度慢，也有空盤的情況，客人等待時間過長。\"},{\"關鍵字\":\"位置\",\"評價說明\":\"餐廳在高需求時段人滿為患，讓位置變得非常擁擠，影響舒適程度。\"}]},\"評論總結\":{\"評價\":\"普通\",\"推薦結論\":\"整體用餐體驗中有些許優點，例如和牛小漢堡的美味，但多數評價指向服務和設施上的不足，讓整體體驗偏向普通。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041698,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 409,
+            "prompt_tokens": 620,
+            "total_tokens": 1029,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMzAMVJo0uE1DJWSzv1QCM5dJn6q0",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"位置很好，去每個景點都很近，早上起來跑步非常舒服；早餐有許多特色美食，非常滿意。\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"位置\",\"評價說明\":\"位置很好，去每個景點都很近。\"},{\"關鍵字\":\"早餐\",\"評價說明\":\"早餐有許多特色美食，非常滿意。\"},{\"關鍵字\":\"舒適度\",\"評價說明\":\"早上起來跑步非常舒服。\"}],\"負向評論\":[]},\"評論總結\":{\"評價\":\"推薦\",\"推薦結論\":\"整體來說，這家飯店在位置、早餐和舒適度方面表現出色，非常推薦。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041702,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 163,
+            "prompt_tokens": 472,
+            "total_tokens": 635,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMzANfUxD3ua6AllyTCBuO2FGS7kp",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"飯店整體都很不錯，服務人員態度親切且房間寬敞新穎，重點是自助早餐美味多樣，價格也不貴，一切都好！（小小心願希望吹風機可以更新成風大一點的機型）\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"服務\",\"評價說明\":\"服務人員態度親切\"},{\"關鍵字\":\"衛生\",\"評價說明\":\"房間寬敞新穎\"},{\"關鍵字\":\"早餐\",\"評價說明\":\"自助早餐美味多樣\"},{\"關鍵字\":\"價格\",\"評價說明\":\"價格不貴\"}],\"負向評論\":[{\"關鍵字\":\"設施\",\"評價說明\":\"希望更新吹風機，風大一點\"}]},\"評論總結\":{\"評價\":\"推薦\",\"推薦結論\":\"整體滿意，服務、餐點及房間品質讓人印象深刻，建議給予較好的設施更新。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041703,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 234,
+            "prompt_tokens": 507,
+            "total_tokens": 741,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMzAQqu2vFsb3fwoGxvfiOmaLr1tb",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"本來想給五顆星，可是設施裡面沒有游泳池😅 飯店的早餐很貼心：有標示蛋奶素、純素，只是建議（字可以大一點）因為現在很多年紀大的有老花看不太清楚🤣🤣晚上有活動👍增加娛樂性 ❤️\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"早餐\",\"評價說明\":\"飯店的早餐很貼心，有標示蛋奶素、純素\"}],\"負向評論\":[{\"關鍵字\":\"設施\",\"評價說明\":\"設施裡面沒有游泳池\"}]},\"評論總結\":{\"評價\":\"普通\",\"推薦結論\":\"雖然早餐很用心，但缺乏游泳池的設施使得整體體驗不夠完美。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041706,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 192,
+            "prompt_tokens": 515,
+            "total_tokens": 707,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMzASXYBwbmIhMfDMLmlJot5r0kjI",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"在8/14晚上臨時決定入住，想給當天晚上的服務人員及櫃檯人員(沒有記住小姐的姓名)說聲謝謝，因為你們親切及仔細說明，讓我們確定入住，飯店及房間環境也很乾淨，對於我們是一個很不錯的住宿體驗！\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"服務\",\"評價說明\":\"服務人員親切且仔細說明，讓入住體驗愉快\"}],\"負向評論\":[]},\"評論總結\":{\"評價\":\"推薦\",\"推薦結論\":\"整體住宿體驗良好，服務優秀且環境乾淨，值得推薦的飯店\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041708,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 175,
+            "prompt_tokens": 526,
+            "total_tokens": 701,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMzATYtqc6sMOTIOpfThIlmv7KdwF",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"藉由agoda平台訂購煙波的家庭房，可能配合飯店活動，假日人潮很多。房間寬敞，且浴室乾濕分離，隔音效果也不錯，晚上不會聽到其他住客的聲音，住起來很舒適。另外，晚上21:00有小活動，煙波有提供免費小點心（甜點、古早味餅乾等），蠻貼心的。早上用餐時間也很寬裕，可以用餐到13:30，適合想來度假、睡到自然醒的客人可以用早午餐。提供的餐點也別具特色，補餐點的速度很快，看得出來他們的用心。不過，因為假日人潮眾多，可以發現餐廳人手不足，收餐盤的速度明顯較慢，但不影響用餐體驗。\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"房間\",\"評價說明\":\"房間寬敞，且浴室乾濕分離，住起來很舒適。\"},{\"關鍵字\":\"隔音\",\"評價說明\":\"隔音效果也不錯，晚上不會聽到其他住客的聲音。\"},{\"關鍵字\":\"服務\",\"評價說明\":\"提供免費小點心，早上用餐時間寬裕，餐點別具特色，補餐速度快，顯示出用心。\"}],\"負向評論\":[{\"關鍵字\":\"服務\",\"評價說明\":\"假日人潮眾多，餐廳人手不足，收餐盤的速度較慢。\"}]},\"評論總結\":{\"評價\":\"推薦\",\"推薦結論\":\"整體體驗良好，雖然在假日高峰時段有服務人手不足的情況，但不影響居住的舒適度和用餐體驗。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041709,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 438,
+            "prompt_tokens": 650,
+            "total_tokens": 1088,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMzAYtqECSWixE5vBA6TsUwg5MGGy",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"官網訂平日3人房5022元， 對於帶ㄧ個大童的家庭有點貴， 3人4人同價， 樓下車位不夠， 平日晚一點來就要停外面或附近， 入住時間較晚沒什麼人還是堅持機器check in，電梯等很久，不主動提供盥洗用具我覺得沒差， 但房間沒瓶裝礦泉水要自己去飲水機裝水實在不喜歡。\",\"評論分析\":{\"正向評論\":[],\"負向評論\":[{\"關鍵字\":\"價格\",\"評價說明\":\"對於帶一個大童的家庭來說，房價5022元有點貴，且三人四人同價，顯得不合理。\"},{\"關鍵字\":\"車位\",\"評價說明\":\"樓下車位不夠，平日晚一點來就要停外面或附近，造成不便。\"},{\"關鍵字\":\"入住流程\",\"評價說明\":\"入住時間較晚卻還要堅持機器check-in，且等電梯的時間過長，服務上有待改善。\"},{\"關鍵字\":\"盥洗用具\",\"評價說明\":\"不主動提供盥洗用具，對我來說雖然無所謂，但仍然反映出服務不夠周到。\"},{\"關鍵字\":\"瓶裝水\",\"評價說明\":\"房間裡沒有瓶裝礦泉水，需要自己去飲水機裝水，讓人感到不太滿意。\"}]},\"評論總結\":{\"評價\":\"不推薦\",\"推薦結論\":\"整體而言，評論者對於飯店的價格、車位、入住流程和房間設施表達了許多不滿，認為服務和便利性不足，因此不推薦此飯店。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041714,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 429,
+            "prompt_tokens": 563,
+            "total_tokens": 992,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMzAbosO3wTcn4ECH3CULdRtxb01f",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"房間乾淨整潔，自助早餐菜色很多樣化也很豐富，和之前住的其它飯店早餐相比，選擇性多很多，唯一美中不足就是電梯太小，用餐時間和退房時間電梯都要等超久。\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"衛生\",\"評價說明\":\"房間乾淨整潔\"},{\"關鍵字\":\"早餐\",\"評價說明\":\"自助早餐菜色很多樣化也很豐富\"},{\"關鍵字\":\"早餐\",\"評價說明\":\"相比其它飯店早餐選擇性多\"}],\"負向評論\":[{\"關鍵字\":\"設施\",\"評價說明\":\"電梯太小\"},{\"關鍵字\":\"設施\",\"評價說明\":\"用餐和退房時等電梯時間久\"}]},\"評論總結\":{\"評價\":\"普通\",\"推薦結論\":\"雖然酒店的服務和早餐表現出色，但小電梯造成的不便影響了整體體驗。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041717,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 235,
+            "prompt_tokens": 502,
+            "total_tokens": 737,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMzAdiy1UUK0YZC2svku3OvJREKnV",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"用agoda訂房 訂房當下確定是一雙人床含浴缸 但是現場入住卻告知agoda後台 是雙人小床及淋浴間 訂單也僅顯示一間客房 建議不要使用agoda 不然到現場的房型都不同 飯店也告知只能加價換房 體驗不佳\",\"評論分析\":{\"正向評論\":[],\"負向評論\":[{\"關鍵字\":\"服務\",\"評價說明\":\"飯店告知在agoda訂房的服務不佳，房型與預期不符。\"},{\"關鍵字\":\"設施\",\"評價說明\":\"現場房間設施與訂房時確認的有很大差異。\"},{\"關鍵字\":\"體驗\",\"評價說明\":\"整體入住體驗不佳，強烈建議不要使用agoda。\"}]},\"評論總結\":{\"評價\":\"不推薦\",\"推薦結論\":\"根據評論內容，該顧客對於訂房過程及實際入住安排表達了強烈的不滿意，主要因為服務不佳和設施不如預期。因此，建議不推薦此飯店。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041719,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 273,
+            "prompt_tokens": 529,
+            "total_tokens": 802,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMzAggMF3s5wWFueLI79R2z71JyG5",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"本次入住帶著期待的心情，很可惜煙坡離轉運站及火車站雖大約10幾分鐘車程也沒有飯店接駁車，選著過去只有計程車或者租借車過去，稍嫌不方便，周邊環境寧靜，但無特別設施可用，若3點入住因不是在市區就得乾坐著等，或著出去走走，到3點再登記入住，但因6月來天氣太過酷熱，真的只想吃個飯就回飯店等入住！這次飯店雖無設施但是有個類似交誼廳有2台販賣機有飲料、泡麵等，飯店還提供開飲機可方便自帶水壺可裝水喝，很好很環保，還有飯店雖無提供入住盥洗用品牙刷，但飯店還是在check in時問客戶有無帶牙刷，如無還是回提供，很貼心！然後房型寬敞都有面窗，唯一美中不足，床偏軟、隔音有些差、加上飯店提供吹風機，低速到不行換一支還是一樣，其他算是不錯！希望有機會至宜蘭再去這些都能改善！其他早點能至1:30所以可以睡到退房再食用恨方便，也沒有一定要沒睡飽還要先吃早點，那種趕的心情！很舒服很棒！\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"衛生\",\"評價說明\":\"飯店提供開飲機方便自帶水壺裝水，很環保\"},{\"關鍵字\":\"服務\",\"評價說明\":\"在check in時問客戶牙刷需求，提供服務很貼心\"},{\"關鍵字\":\"設施\",\"評價說明\":\"有交誼廳、販賣機提供飲料和泡麵\"},{\"關鍵字\":\"舒適度\",\"評價說明\":\"房型寬敞且有面窗\"}],\"負向評論\":[{\"關鍵字\":\"位置\",\"評價說明\":\"離轉運站及火車站約10幾分鐘車程，飯店無接駁車，稍嫌不方便\"},{\"關鍵字\":\"設施\",\"評價說明\":\"無特別設施可用，房間隔音差\"},{\"關鍵字\":\"舒適度\",\"評價說明\":\"床偏軟，吹風機速度過低\"}]},\"評論總結\":{\"評價\":\"推薦\",\"推薦結論\":\"雖然位置和部分設施需要改善，但整體服務、衛生和房型的舒適度為此次入住留下了良好的印象，推薦再次光臨。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041722,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 631,
+            "prompt_tokens": 789,
+            "total_tokens": 1420,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMzAkYDdq1yrgzGXNYdZnghlkNxS6",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"飯店非常乾淨，房間還放有除濕機保持著房間乾淨優良的環境，房間也蠻安靜的，有嬰兒床嬰兒洗澡用品及烘奶瓶設備蠻不錯。給個小小建議：1.販賣機有飲水機和冷氣開放，環境優渥，但泡泡麵沒有垃圾桶，垃圾還要拿到櫃檯有點不太方便。2.頂樓遊玩空間算大建議放個球池小滑梯讓嬰幼兒可以玩樂一下。其餘都蠻優良的。\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"衛生\",\"評價說明\":\"飯店非常乾淨，有除濕機保持環境優良。\"},{\"關鍵字\":\"舒適度\",\"評價說明\":\"房間安靜，且提供嬰兒床和相關設備，讓人感到舒適。\"}],\"負向評論\":[{\"關鍵字\":\"服務\",\"評價說明\":\"販賣機缺乏垃圾桶，丟棄垃圾不便。\"},{\"關鍵字\":\"設施\",\"評價說明\":\"遊玩空間建議增加球池和滑梯。\"}]},\"評論總結\":{\"評價\":\"推薦\",\"推薦結論\":\"整體環境和設施都很優良，只是小的地方需改善，因此推薦這家飯店給其他旅客。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041726,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 345,
+            "prompt_tokens": 595,
+            "total_tokens": 940,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMzAnaTeK2DER9SFdc3hMie5HQyUY",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"我必須先說，我很喜歡煙波，以下是這次入住的感覺 1.早餐非常棒 2.粉紅泡泡活動介紹，可能對小朋友比較開心，對大朋友的我來說，有風聲大雨點小，感覺不知道上去要幹什麼 3.晚上的party，服務人員第一天進去只說八點半開始有甜點可食用，歡迎我們前往，第二天只問活動地點在哪邊，才告知需要再收費因為我是在網路上旅行社訂的房，雖然說200費用不是很高，但總感覺就不太對了，若第一天說了還沒那麼大的感覺。\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"早餐\",\"評價說明\":\"早餐非常棒\"},{\"關鍵字\":\"服務\",\"評價說明\":\"服務人員提供的基本資訊不夠清楚\"}],\"負向評論\":[{\"關鍵字\":\"服務\",\"評價說明\":\"服務人員告知收費不夠提前，讓顧客感到不滿\"},{\"關鍵字\":\"活動\",\"評價說明\":\"粉紅泡泡活動對大朋友吸引力不足\"}]},\"評論總結\":{\"評價\":\"普通\",\"推薦結論\":\"雖然早餐非常好，但服務上的問題和活動內容對大人的吸引力不足，影響了整體的入住體驗。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041729,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 334,
+            "prompt_tokens": 610,
+            "total_tokens": 944,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMzAqjMrLqbvuAvOF09JGjyw9MDq0",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"座落在安靜郊區的飯店，房間乾淨還有大陽台面對鄉間，晚上飯店1樓還有提供甜點派對，最讓人驚艷的是飯店自助餐早餐，餐點具有宜蘭特色，口味也好吃，且供應到13:00左右，可以先行退房再用餐，不會讓人有壓力。\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"衛生\",\"評價說明\":\"房間乾淨，帶來良好的住宿體驗。\"},{\"關鍵字\":\"設施\",\"評價說明\":\"大陽台面對鄉間，提供舒適的環境。\"},{\"關鍵字\":\"早餐\",\"評價說明\":\"自助餐早餐具有宜蘭特色，口味好且供應到13:00，這樣的安排讓用餐沒有壓力。\"},{\"關鍵字\":\"服務\",\"評價說明\":\"可以先行退房再用餐，提供靈活的服務選擇。\"}],\"負向評論\":[]},\"評論總結\":{\"評價\":\"推薦\",\"推薦結論\":\"飯店在衛生、設施、早餐和服務方面表現優異，總體上極力推薦給其他旅客。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041732,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 290,
+            "prompt_tokens": 535,
+            "total_tokens": 825,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMzAsWICj97ayvb2DbxPXxlT0L8At",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"服務親切，用心接待！ 晚上8：30-10：30還有暗黑派對，除了燈光秀還有點心可以享用！\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"服務\",\"評價說明\":\"服務親切，用心接待！\"},{\"關鍵字\":\"設施\",\"評價說明\":\"晚上有暗黑派對及燈光秀可以享用點心！\"}],\"負向評論\":[]},\"評論總結\":{\"評價\":\"推薦\",\"推薦結論\":\"這條評論表達了對於飯店服務和設施的高度滿意，特別是個性化的接待和有趣的活動，故推薦。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041734,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 161,
+            "prompt_tokens": 478,
+            "total_tokens": 639,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMzAuG15IR77g5H6w2seVyBjKl2Vi",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"整體住宿體驗很愉快，唯隔音不太好，隔壁半夜洗澡，被熱水的聲音吵醒，還有廁所門不容易關上小問題。值得特別稱讚的是總類多元豐盛的早餐，龍蝦湯讓人驚艷，服務人員都非常熱心有禮貌，不提供礦泉水而改用飲水機，既環保又不浪費，優秀。\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"早餐\",\"評價說明\":\"總類多元豐盛的早餐，龍蝦湯讓人驚艷\"},{\"關鍵字\":\"服務\",\"評價說明\":\"服務人員都非常熱心有禮貌，且環保的飲水方式值得稱讚\"}],\"負向評論\":[{\"關鍵字\":\"隔音\",\"評價說明\":\"隔音不太好，容易被隔壁的聲音吵醒\"},{\"關鍵字\":\"設施\",\"評價說明\":\"廁所門不容易關上\"}]},\"評論總結\":{\"評價\":\"普通\",\"推薦結論\":\"整體住宿經驗仍然愉快，雖然有些小問題，但正面要素較為突出，仍可考慮推薦。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041736,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 298,
+            "prompt_tokens": 549,
+            "total_tokens": 847,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMzAwTkdYrpchkqDzVNZUzZNdtgdD",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"訂的是豪華雙人房，就很正常規格的雙人床，被子也是正常尺寸的雙人大小，一點都沒有豪華感，電視旁邊多那一塊板子很是多餘的設計，電視音質又很差，床頭邊有一條長版的空間很是浪費，那個空間放貴妃椅質感會提升，房間裝潢的色調不溫馨，沒有放鬆感。衛浴空間夠大，格局很好，用品都齊全，唯一讓我覺得值得的是飯店的自助早餐，多樣又豐富，還可以在11點退房後繼續用餐到下午的1點半。晚上免費的高熱量甜品吃到飽也不錯。\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"衛浴\",\"評價說明\":\"衛浴空間夠大，格局很好，用品都齊全。\"},{\"關鍵字\":\"早餐\",\"評價說明\":\"飯店的自助早餐多樣又豐富，還可以在11點退房後繼續用餐到下午的1點半。\"}],\"負向評論\":[{\"關鍵字\":\"豪華感\",\"評價說明\":\"豪華雙人房但實際上沒有豪華感，雙人床及被子都是正常尺寸。\"},{\"關鍵字\":\"裝潢\",\"評價說明\":\"房間裝潢的色調不溫馨，沒有放鬆感。\"},{\"關鍵字\":\"服務設施\",\"評價說明\":\"電視音質很差，也認為有多餘的設計。\"}]},\"評論總結\":{\"評價\":\"普通\",\"推薦結論\":\"飯店有好的衛浴和早餐，但房間裝潢和設施有待提升，整體體驗中規中矩，不算特別推薦或不推薦。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041738,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 442,
+            "prompt_tokens": 628,
+            "total_tokens": 1070,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMzB2DEzlHYJP7RFM7m4XDqTolx5w",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"房間環境是還蠻舒適的，小朋友也喜歡彼彼熊很可愛，但是美中不足的是馬桶很難順暢消化沖走，第一天有反應馬桶的問題，但是住第二晚馬桶一樣不順暢，反而更嚴重，實在是很擾人，印象大打折扣，覺得這樣的住宿實在不方便，也對飯店處理的方式不以為然，似乎沒處理一樣。\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"舒適度\",\"評價說明\":\"房間環境是還蠻舒適的\"},{\"關鍵字\":\"設施\",\"評價說明\":\"小朋友也喜歡彼彼熊很可愛\"}],\"負向評論\":[{\"關鍵字\":\"設施\",\"評價說明\":\"馬桶很難順暢消化沖走，住第二晚馬桶一樣不順暢，反而更嚴重\"},{\"關鍵字\":\"服務\",\"評價說明\":\"第一天有反應馬桶的問題，但飯店似乎沒有處理一樣\"}]},\"評論總結\":{\"評價\":\"不推薦\",\"推薦結論\":\"雖然房間舒適且適合小孩，但馬桶問題嚴重影響住宿體驗，且飯店未妥善處理，整體不便。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041744,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 317,
+            "prompt_tokens": 556,
+            "total_tokens": 873,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMzB4XyjpmenstPUktlLz4DejLzSx",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"服務人員服務態度友善、親切、專業 房間很大很舒適 R樓有粉紅泡泡拍照區域 可以拍拍網美照打卡留念 R樓旁邊有粉紅樓梯可以帶小朋友上去玩耍放放電及戶外風景區 餐廳餐點多元 1樓有ok販賣機可以買泡麵及飲料旁邊也有提供飲水機可以裝水 整體下來真的很棒👍👍\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"服務\",\"評價說明\":\"服務人員服務態度友善、親切、專業\"},{\"關鍵字\":\"舒適度\",\"評價說明\":\"房間很大很舒適\"},{\"關鍵字\":\"設施\",\"評價說明\":\"R樓有粉紅泡泡拍照區域和粉紅樓梯可以玩耍\"},{\"關鍵字\":\"餐飲\",\"評價說明\":\"餐廳餐點多元，有販賣機和飲水機提供便利\"}],\"負向評論\":[]},\"評論總結\":{\"評價\":\"推薦\",\"推薦結論\":\"整體服務和設施令人滿意，適合家庭旅遊.\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041746,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 280,
+            "prompt_tokens": 557,
+            "total_tokens": 837,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMzB6U5hINrCgffAQ2Kph4YsWIwc9",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"房間偏潮濕缺乏維護，有明顯的霉味，對過敏者不友善，早餐補菜速度慢，9:00左右用餐幾乎沒有食物可以吃早餐收拾桌邊服務人員態度不佳，反應有盤子待收（我已經疊了幾個盤子在桌邊），口氣極差又大聲的回覆她要收隔壁桌子，外面有客人要進來.李x珍小姐，我覺得妳如果心情不好妳應該去服務廚房內場而不是跟客人接觸！如果不是我很確定我訂的是煙波飯店、我還以為我是在路邊小攤被攤販老闆娘吆喝😑\",\"評論分析\":{\"正向評論\":[],\"負向評論\":[{\"關鍵字\":\"衛生\",\"評價說明\":\"房間偏潮濕，明顯有霉味，對過敏者不友善\"},{\"關鍵字\":\"早餐\",\"評價說明\":\"早餐補菜速度慢，9:00用餐幾乎沒有食物可吃\"},{\"關鍵字\":\"服務\",\"評價說明\":\"服務人員態度不佳，口氣極差且大聲回覆客人\"}]},\"評論總結\":{\"評價\":\"不推薦\",\"推薦結論\":\"根據評論，該飯店的衛生狀況不佳，服務態度有待提升，整體體驗不理想，因此不推薦。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041748,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 357,
+            "prompt_tokens": 627,
+            "total_tokens": 984,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    },
+    {
+        "id": "chatcmpl-AMzB95quhhyMohQRvl2fTKVt40UMV",
+        "choices": [
+            {
+                "finish_reason": "stop",
+                "index": 0,
+                "logprobs": null,
+                "message": {
+                    "content": "{\"評論\":\"這次是我第二次入住宜蘭煙波飯店，房間乾淨整潔、冷氣空調舒適、棉被觸感很好，又有陽台可以觀賞周邊風景，退房時間還可以選擇到隔天下午2時退房，配合餐廳用餐時間長，同時可以享受休閒的早午餐，很讚的體驗，值得推薦！\",\"評論分析\":{\"正向評論\":[{\"關鍵字\":\"衛生\",\"評價說明\":\"房間乾淨整潔\"},{\"關鍵字\":\"舒適度\",\"評價說明\":\"冷氣空調舒適、棉被觸感很好\"},{\"關鍵字\":\"設施\",\"評價說明\":\"有陽台可以觀賞周邊風景\"},{\"關鍵字\":\"服務\",\"評價說明\":\"退房時間靈活，配合餐廳用餐時間長\"}],\"負向評論\":[]},\"評論總結\":{\"評價\":\"推薦\",\"推薦結論\":\"根據評論內容，飯店提供的舒適住宿環境、良好服務以及靈活的退房安排，使其成為值得推薦的選擇。\"}}",
+                    "refusal": null,
+                    "role": "assistant",
+                    "function_call": null,
+                    "tool_calls": null
+                }
+            }
+        ],
+        "created": 1730041751,
+        "model": "gpt-4o-mini-2024-07-18",
+        "object": "chat.completion",
+        "service_tier": null,
+        "system_fingerprint": "fp_f59a81427f",
+        "usage": {
+            "completion_tokens": 272,
+            "prompt_tokens": 538,
+            "total_tokens": 810,
+            "completion_tokens_details": {
+                "audio_tokens": null,
+                "reasoning_tokens": 0
+            },
+            "prompt_tokens_details": {
+                "audio_tokens": null,
+                "cached_tokens": 0
+            }
+        }
+    }
+]
