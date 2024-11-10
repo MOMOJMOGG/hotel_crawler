@@ -7,6 +7,7 @@ from modules.settings.config_manager import config
 config.load_settings(os.path.dirname(os.path.abspath(__file__)))
     
 from modules.gmap_crawler import craw_hotel
+from modules.data_cleaner import DataCleaner
 
 if __name__ == '__main__':
     
@@ -30,5 +31,11 @@ if __name__ == '__main__':
             st.markdown(f"**Check Out**: {data['information']['time'].get('end', '---')}")
 
         st.subheader("原始資料", divider=True)
-        df = pd.DataFrame(data['review'])
-        st.dataframe(df, use_container_width=True)
+        
+        dc = DataCleaner(data['review'])
+        st.dataframe(dc.df, use_container_width=True)
+        
+        dc.exec_clean('comment')
+        st.subheader("清理資料", divider=True)
+        st.dataframe(dc.df, use_container_width=True)
+        
