@@ -7,7 +7,7 @@ from modules.settings.config_manager import config
 config.load_settings(os.path.dirname(os.path.abspath(__file__)))
     
 from modules.gmap_crawler import craw_hotel
-from modules.data_cleaner import DataCleaner
+from modules.data_handler import DataHandler
 
 if __name__ == '__main__':
     
@@ -32,10 +32,20 @@ if __name__ == '__main__':
 
         st.subheader("原始資料", divider=True)
         
-        dc = DataCleaner(data['review'])
-        st.dataframe(dc.df, use_container_width=True)
+        handler = DataHandler(data['review'])
+        st.dataframe(handler.df, use_container_width=True)
         
-        dc.exec_clean('comment')
+        handler.exec_clean('comment')
         st.subheader("清理資料", divider=True)
-        st.dataframe(dc.df, use_container_width=True)
+        st.dataframe(handler.df, use_container_width=True)
+        
+        st.divider()
+        st.markdown('''
+                    :red[分析資料會耗時較久, 請耐心等候]
+                    ''')
+        handler.exec_analyze('comment')
+        st.subheader("分析資料", divider=True)
+        formed_df = pd.DataFrame(handler.formed_data)
+        st.dataframe(formed_df, use_container_width=True)
+        
         

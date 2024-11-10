@@ -1,10 +1,14 @@
 import pandas as pd
+import time
+from modules.review_analizer import analyzer
 
-class DataCleaner:
+class DataHandler:
     
     def __init__(self, data):
         self.data = data
         self.df = pd.DataFrame(data)
+        
+        self.formed_data = []
     
     #* 將換行符號替換為空格並去除多餘的空格
     def clean_text(self, content):
@@ -25,3 +29,12 @@ class DataCleaner:
         
         # 刪除不再需要的輔助欄位
         self.df.drop(columns=['cleaned'], inplace=True)
+    
+    def exec_analyze(self, key):
+        start = time.time()
+        responses = self.df[key].apply(analyzer.analyze_review_with_output_spec)
+        print("Run: {} s".format((time.time() - start)))
+        
+        # 將原始回應結果轉換為列表
+        raw_responses_list = responses.tolist()
+        self.formed_data = [data['choices'][0]['message']['content'] for data in raw_responses_list]
