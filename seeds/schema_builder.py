@@ -5,7 +5,7 @@ def build_schema(cursor):
     CREATE TABLE IF NOT EXISTS hotels (
         id INTEGER PROMARY KEY AUDOINCREMENT,
         name TEXT NOT NULL UNIQUE,
-        star FLOAT,
+        star TEXT,
         rank TEXT,
         address TEXT,
         url TEXT,
@@ -31,14 +31,23 @@ def build_schema(cursor):
     CREATE TABLE IF NOT EXISTS analyzes (
         id INTEGER PROMARY KEY AUDOINCREMENT,
         hotel_id INTEGER,
-        comment TEXT,
+        review TEXT,
         positive_key TEXT,
         negative_key TEXT,
-        positive_comment TEXT,
-        negative_comment TEXT,
-        summary TEXT,
-        conclusion TEXT, 
+        star TEXT,
+        recommand TEXT,
         FOREIGN KEY (hotel_id) REFERENCES hotels
+    )
+    ''')
+    
+    cursor.execute('''
+    CREATE TABLE IF NOT EXISTS keycounts (
+        id INTEGER PROMARY KEY AUDOINCREMENT,
+        analyze_id INTEGER,
+        key TEXT,
+        count TEXT,
+        type TEXT,
+        FOREIGN KEY (analyze_id) REFERENCES analyzes
     )
     ''')
 
