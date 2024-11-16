@@ -12,3 +12,5 @@ if not os.path.exists('seeds/db/hotel_reviews.db'):
     cursor.execute(FORMED_FILE_SCHEMA)
 
     conn.commit()
+
+    print('Create local database -- Done!')
