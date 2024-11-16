@@ -119,7 +119,9 @@ main.py    -- entry point | run by streamlit
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 專案展示 / Project Demo
-[Demo](output/SideProject-HotelCrawler.mp4)
+![Image][demo-url-01]
+![Image][demo-url-02]
+![Image][demo-url-03]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -142,3 +144,6 @@ This project is licensed under the MIT License - see the [LICENSE][license-url] 
 [streamlit-url]: https://streamlit.io/
 [sqlite-badge]: https://img.shields.io/badge/sqlite-%23003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white
 [sqlite-url]: https://www.sqlite.org/
+[demo-url-01]: https://github.com/MOMOJMOGG/hotel_crawler/blob/main/output/01.gif
+[demo-url-02]: https://github.com/MOMOJMOGG/hotel_crawler/blob/main/output/02.gif
+[demo-url-03]: https://github.com/MOMOJMOGG/hotel_crawler/blob/main/output/demo.png
