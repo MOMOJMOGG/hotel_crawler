@@ -11,6 +11,8 @@ class DirSettings:
         
         self.dir_seeds = os.path.join(root_dir, 'seeds')
         self.dir_db = os.path.join(self.dir_seeds, 'db')
+        if not os.path.exists(self.dir_db):
+            os.mkdir(self.dir_db)
         
         self.db_path = os.path.join(self.dir_db, 'hotel_reviews.db')
     
