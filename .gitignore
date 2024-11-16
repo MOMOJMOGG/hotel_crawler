@@ -1,4 +1,5 @@
 *.exe
 .env
 *.db
+*.json
 __pycache__/
